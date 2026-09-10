@@ -96,8 +96,48 @@
 
     populateFilters();
     renderChart(state.timeline);
+    renderLatest();
     applyFilters();
     wireSort();
+  }
+
+  // ---------- Ultime variazioni ----------
+  function truncate160(s) {
+    s = String(s == null ? "" : s).trim();
+    return s.length > 160 ? s.slice(0, 159).trimEnd() + "…" : s;
+  }
+  function renderLatest() {
+    var el = document.getElementById("latest-list");
+    var cnt = document.getElementById("latest-count");
+    if (!el) return;
+    var items = state.items.slice()
+      .sort(function (a, b) {
+        var d = String(b.last_change || "").localeCompare(String(a.last_change || ""));
+        return d !== 0 ? d : (b.ts || 0) - (a.ts || 0);
+      })
+      .slice(0, 8);
+    if (!items.length) {
+      el.innerHTML = '<div class="empty-note">Nessuna variazione recente. Le nuove novità compariranno qui.</div>';
+      if (cnt) cnt.textContent = "";
+      return;
+    }
+    if (cnt) cnt.textContent = items.length + (items.length === 1 ? " voce" : " voci");
+    el.innerHTML = items.map(function (it) {
+      var st = it.status;
+      var title = it.url
+        ? '<a class="latest-title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a>"
+        : '<span class="latest-title">' + esc(it.title) + "</span>";
+      var sum = (it.summary && it.summary !== it.title)
+        ? '<div class="latest-sum">' + esc(truncate160(it.summary)) + "</div>" : "";
+      var meta = esc(ST_LABEL[st] || st) + " · " + esc(it.source_label) +
+        (it.category ? " · " + esc(it.category) : "");
+      return '<div class="latest-item">' +
+        '<span class="dot dot-' + esc(st) + '"></span>' +
+        '<div class="latest-main">' + title +
+        '<div class="latest-meta">' + meta + "</div>" + sum + "</div>" +
+        '<div class="latest-date">' + esc(it.last_change || it.date || "") + "</div>" +
+        "</div>";
+    }).join("");
   }
   function setText(id, v) {
     var el = document.getElementById(id);
