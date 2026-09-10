@@ -1,0 +1,59 @@
+name: Monitor GDPR
+
+# Esegue lo scraper multi-fonte (AEPD, Garante, EDPB, EUR-Lex), notifica su
+# Slack le variazioni e committa lo stato aggiornato su docs/data/.
+
+on:
+  schedule:
+    # Giornaliero alle 06:00 UTC (08:00 ora legale estiva IT, 07:00 invernale)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # esecuzione manuale dalla tab Actions
+
+# Evita run sovrapposti (lo scraper committa sul repo)
+concurrency:
+  group: monitor-gdpr
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # necessario per committare last_scan.json
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Installazione dipendenze
+        run: pip install -r scripts/requirements.txt
+
+      - name: Esecuzione scraper + riassunto Gemini
+        id: scrape
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/scrape_gdpr.py
+
+      - name: Notifica Slack
+        if: always()   # notifica anche se lo scraper ha segnalato errori di fonte
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python scripts/notify_slack.py
+
+      - name: Commit dello stato aggiornato
+        if: always()   # salva lo stato anche in caso di errore parziale
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica allo stato: niente da committare."
+          else
+            git commit -m "chore: scan gdpr $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

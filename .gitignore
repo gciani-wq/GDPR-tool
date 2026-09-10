@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# Segreti / configurazione locale (NON committare mai)
+.env
+*.env
+secrets.json
+
+# File temporanei prodotti a runtime dal monitor
+/tmp/last_scan_changes.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

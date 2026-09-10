@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Complaion — GDPR Monitor</title>
+  <meta name="description" content="Monitor automatico delle novità GDPR/RGPD: AEPD, Garante, EDPB, EUR-Lex." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">🛡️</span>
+      <div>
+        <h1>Complaion — GDPR Monitor</h1>
+        <p class="subtitle">Novità normative in materia di protezione dei dati · AEPD · Garante · EDPB · EUR-Lex</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="last-updated" class="last-updated">—</span>
+      <button id="theme-toggle" class="theme-toggle" title="Cambia tema" aria-label="Cambia tema">🌙</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="error-banner" class="error-banner" hidden></section>
+
+    <section class="stats-grid" aria-label="Metriche">
+      <div class="stat-card">
+        <span class="stat-icon">📚</span>
+        <div><div class="stat-value" id="stat-total">—</div><div class="stat-label">Item tracciati</div></div>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon">🆕</span>
+        <div><div class="stat-value" id="stat-7d">—</div><div class="stat-label">Variazioni 7 gg</div></div>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon">📈</span>
+        <div><div class="stat-value" id="stat-30d">—</div><div class="stat-label">Variazioni 30 gg</div></div>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon">🛰️</span>
+        <div><div class="stat-value" id="stat-sources">—</div><div class="stat-label">Fonti monitorate</div></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Andamento variazioni (30 giorni)</h2>
+      </div>
+      <div class="chart-wrap"><canvas id="timeline-chart" height="90"></canvas></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Contenuti monitorati</h2>
+        <div class="filters">
+          <input type="search" id="filter-search" placeholder="Cerca testo…" />
+          <select id="filter-source"><option value="">Tutte le fonti</option></select>
+          <select id="filter-category"><option value="">Tutte le categorie</option></select>
+          <select id="filter-relevance">
+            <option value="">Ogni rilevanza</option>
+            <option value="high">Alta</option>
+            <option value="medium">Media</option>
+            <option value="low">Bassa</option>
+          </select>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="items-table">
+          <thead>
+            <tr>
+              <th data-sort="status">Stato</th>
+              <th data-sort="source_label">Fonte</th>
+              <th data-sort="title">Titolo</th>
+              <th data-sort="category">Categoria</th>
+              <th data-sort="relevance">Rilevanza</th>
+              <th data-sort="last_change">Ultima variazione</th>
+            </tr>
+          </thead>
+          <tbody id="items-body">
+            <tr><td colspan="6" class="loading">Caricamento…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p id="empty-note" class="empty-note" hidden>Nessun elemento corrisponde ai filtri.</p>
+    </section>
+
+    <footer class="footer">
+      <span>Aggiornato automaticamente via GitHub Actions · dati: <code>docs/data/dashboard.json</code></span>
+      <span>Complaion GDPR Monitor</span>
+    </footer>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
