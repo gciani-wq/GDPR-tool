@@ -60,7 +60,7 @@ HTTP_TIMEOUT = 30
 MAX_KEYS_PER_SOURCE = 400          # tetto chiavi storicizzate per fonte
 SEED_MAX_SUMMARIES_PER_SOURCE = 5  # riassunti AI al primo run (baseline)
 MAX_GEMINI_CALLS = 80              # tetto globale chiamate Gemini per run
-HEAL_MAX_PER_RUN = 12              # quanti item "vecchi" ri-riassumere per run
+HEAL_MAX_PER_RUN = 60              # quanti item "vecchi" ri-riassumere per run
 GEMINI_SLEEP = 4.0                 # pausa tra chiamate Gemini (piano gratuito ~15 RPM)
 HISTORY_MAX_DAYS = 120             # entry conservate nella serie storica
 
