@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-10T09:52:49Z",
+  "generated_utc": "2026-09-10T10:27:38Z",
   "stats": {
     "total_items": 56,
     "changes_7d": 56,
@@ -20,7 +20,7 @@
   "timeline": [
     {
       "date": "2026-09-10",
-      "new": 1,
+      "new": 0,
       "changed": 0
     }
   ],
