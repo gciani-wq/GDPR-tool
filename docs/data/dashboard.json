@@ -1,0 +1,296 @@
+{
+  "generated_utc": "2026-09-10T06:00:00Z (dati dimostrativi)",
+  "stats": {
+    "total_items": 8,
+    "changes_7d": 5,
+    "changes_30d": 6,
+    "sources_count": 5,
+    "by_source": {
+      "AEPD (Spagna)": 2,
+      "Garante Privacy — Comunicati stampa (Italia)": 2,
+      "Garante Privacy — Newsletter (Italia)": 1,
+      "EDPB (UE)": 2,
+      "EUR-Lex — Reg. (UE) 2016/679 (GDPR)": 1
+    },
+    "by_relevance": {
+      "high": 3,
+      "medium": 3,
+      "low": 2
+    }
+  },
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "new": 1,
+      "changed": 1
+    },
+    {
+      "date": "2026-08-13",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-14",
+      "new": 0,
+      "changed": 1
+    },
+    {
+      "date": "2026-08-15",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-16",
+      "new": 0,
+      "changed": 1
+    },
+    {
+      "date": "2026-08-17",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-18",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-19",
+      "new": 2,
+      "changed": 1
+    },
+    {
+      "date": "2026-08-20",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-21",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-22",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-23",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-24",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-25",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-26",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-27",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-28",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-29",
+      "new": 0,
+      "changed": 1
+    },
+    {
+      "date": "2026-08-30",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-08-31",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-01",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-02",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-03",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-04",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-05",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-06",
+      "new": 2,
+      "changed": 1
+    },
+    {
+      "date": "2026-09-07",
+      "new": 0,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-08",
+      "new": 2,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-09",
+      "new": 1,
+      "changed": 0
+    },
+    {
+      "date": "2026-09-10",
+      "new": 1,
+      "changed": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "aepd:0",
+      "source_id": "aepd",
+      "source_label": "AEPD (Spagna)",
+      "title": "Nota informativa de la AEPD sobre transferencias internacionales",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa",
+      "date": "2026-09-10",
+      "status": "new",
+      "category": "Comunicazione / News",
+      "relevance": "medium",
+      "summary": "L'AEPD chiarisce i criteri sulle trasferenze internazionali verso paesi terzi dopo le ultime decisioni di adeguatezza.",
+      "first_seen": "2026-09-10",
+      "last_change": "2026-09-10",
+      "ts": 1000000000
+    },
+    {
+      "id": "garante_comunicati:0",
+      "source_id": "garante_comunicati",
+      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
+      "title": "Telemarketing, il Garante privacy sanziona una società per 9,5 milioni",
+      "url": "https://www.garanteprivacy.it/comunicati-stampa",
+      "date": "2026-09-09",
+      "status": "new",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "high",
+      "summary": "Maxi-sanzione per telemarketing illecito: impatti su gestione dei consensi e liste di contatto.",
+      "first_seen": "2026-09-09",
+      "last_change": "2026-09-09",
+      "ts": 999913600
+    },
+    {
+      "id": "edpb:0",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
+      "url": "https://www.edpb.europa.eu/news_en",
+      "date": "2026-09-09",
+      "status": "new",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "high",
+      "summary": "La CNIL sanziona una struttura sanitaria per un data breach su dati sanitari: benchmark europeo per le misure di sicurezza.",
+      "first_seen": "2026-09-09",
+      "last_change": "2026-09-09",
+      "ts": 999913600
+    },
+    {
+      "id": "garante_newsletter:0",
+      "source_id": "garante_newsletter",
+      "source_label": "Garante Privacy — Newsletter (Italia)",
+      "title": "Newsletter — sintesi dei provvedimenti del mese",
+      "url": "https://www.garanteprivacy.it/home/stampa-comunicazione/newsletter",
+      "date": "2026-09-08",
+      "status": "new",
+      "category": "Newsletter",
+      "relevance": "low",
+      "summary": "Riepilogo mensile dei principali provvedimenti adottati dal Garante.",
+      "first_seen": "2026-09-08",
+      "last_change": "2026-09-08",
+      "ts": 999827200
+    },
+    {
+      "id": "aepd:1",
+      "source_id": "aepd",
+      "source_label": "AEPD (Spagna)",
+      "title": "La AEPD sanciona a una entidad por videovigilancia sin base legítima",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa",
+      "date": "2026-09-06",
+      "status": "changed",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "high",
+      "summary": "Sanzione per videosorveglianza priva di base giuridica; rilevante per i trattamenti di sorveglianza sul lavoro.",
+      "first_seen": "2026-09-01",
+      "last_change": "2026-09-06",
+      "ts": 999654400
+    },
+    {
+      "id": "garante_comunicati:1",
+      "source_id": "garante_comunicati",
+      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
+      "title": "Deepfake satirici: ammonita una emittente televisiva",
+      "url": "https://www.garanteprivacy.it/comunicati-stampa",
+      "date": "2026-08-21",
+      "status": "seen",
+      "category": "Provvedimento / Decisione",
+      "relevance": "medium",
+      "summary": "Provvedimento su deepfake satirici e trattamento di immagini di persone note.",
+      "first_seen": "2026-08-16",
+      "last_change": "2026-08-21",
+      "ts": 998272000
+    },
+    {
+      "id": "edpb:1",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Guidelines on the interplay between data protection and competition law",
+      "url": "https://www.edpb.europa.eu/news_en",
+      "date": "2026-07-30",
+      "status": "seen",
+      "category": "Linee guida",
+      "relevance": "medium",
+      "summary": "Nuove linee guida EDPB sull'intersezione tra protezione dati e diritto della concorrenza.",
+      "first_seen": "2026-07-25",
+      "last_change": "2026-07-30",
+      "ts": 996371200
+    },
+    {
+      "id": "eurlex:0",
+      "source_id": "eurlex",
+      "source_label": "EUR-Lex — Reg. (UE) 2016/679 (GDPR)",
+      "title": "GDPR — versione consolidata al 04/05/2016",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679",
+      "date": "2026-05-13",
+      "status": "seen",
+      "category": "Modifica normativa",
+      "relevance": "low",
+      "summary": "Nessun nuovo emendamento: la versione consolidata del testo GDPR è invariata.",
+      "first_seen": "2026-05-08",
+      "last_change": "2026-05-13",
+      "ts": 989632000
+    }
+  ],
+  "errors": []
+}
