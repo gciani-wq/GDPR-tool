@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-09-10T09:50:25Z",
+  "last_run_utc": "2026-09-10T09:52:49Z",
   "sources": {
     "aepd": {
       "items": {
@@ -363,6 +363,21 @@
           "ts": 1788957541,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/nota-informativa-de-la-aepd"
         },
+        "aepd:dd2ccb7f-c548-4620-b86c-13a914d68338": {
+          "category": "Altro",
+          "date": "Thu, 21 May 2026 10:52:52 +0200",
+          "first_seen": "2026-09-10",
+          "hash": "31032d6d5d2f0aa1",
+          "last_change": "2026-09-10",
+          "relevance": "medium",
+          "source_id": "aepd",
+          "source_label": "AEPD (Spagna)",
+          "status": "new",
+          "summary": "[Riassunto AI non disponibile: GEMINI_API_KEY non impostata. Configurarla come GitHub Secret.] Sigue en directo la entrega de los Premios Protección de Datos",
+          "title": "Sigue en directo la entrega de los Premios Protección de Datos",
+          "ts": 1779353572,
+          "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/sigue-en-directo-la-entrega-de-los-premios-proteccion-de-datos"
+        },
         "aepd:e740b21d-44f1-4c58-baa6-b9e7e6809a5b": {
           "category": "Comunicazione / News",
           "date": "Thu, 09 Jul 2026 12:00:00 +0200",
@@ -533,9 +548,6 @@
           "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en"
         }
       }
-    },
-    "eurlex": {
-      "items": {}
     },
     "garante_comunicati": {
       "items": {

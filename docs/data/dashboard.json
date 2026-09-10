@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-09-10T09:50:25Z",
+  "generated_utc": "2026-09-10T09:52:49Z",
   "stats": {
-    "total_items": 55,
-    "changes_7d": 55,
-    "changes_30d": 55,
-    "sources_count": 5,
+    "total_items": 56,
+    "changes_7d": 56,
+    "changes_30d": 56,
+    "sources_count": 4,
     "by_source": {
-      "AEPD (Spagna)": 25,
+      "AEPD (Spagna)": 26,
       "Garante Privacy — Comunicati stampa (Italia)": 10,
       "Garante Privacy — Newsletter (Italia)": 10,
       "EDPB (UE)": 10
     },
     "by_relevance": {
       "high": 0,
-      "medium": 25,
+      "medium": 26,
       "low": 30
     }
   },
   "timeline": [
     {
       "date": "2026-09-10",
-      "new": 0,
+      "new": 1,
       "changed": 0
     }
   ],
@@ -746,6 +746,21 @@
       "ts": 1779449400
     },
     {
+      "id": "aepd:dd2ccb7f-c548-4620-b86c-13a914d68338",
+      "source_id": "aepd",
+      "source_label": "AEPD (Spagna)",
+      "title": "Sigue en directo la entrega de los Premios Protección de Datos",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/sigue-en-directo-la-entrega-de-los-premios-proteccion-de-datos",
+      "date": "Thu, 21 May 2026 10:52:52 +0200",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: GEMINI_API_KEY non impostata. Configurarla come GitHub Secret.] Sigue en directo la entrega de los Premios Protección de Datos",
+      "first_seen": "2026-09-10",
+      "last_change": "2026-09-10",
+      "ts": 1779353572
+    },
+    {
       "id": "garante_newsletter:https://www.gpdp.it/garante/doc.jsp?ID=10252530",
       "source_id": "garante_newsletter",
       "source_label": "Garante Privacy — Newsletter (Italia)",
@@ -851,10 +866,5 @@
       "ts": 1765933200
     }
   ],
-  "errors": [
-    {
-      "source_label": "EUR-Lex — Reg. (UE) 2016/679 (GDPR)",
-      "error": "impossibile individuare la versione consolidata GDPR su EUR-Lex (nessun CELEX 02016R0679-YYYYMMDD): possibile blocco anti-bot o cambio struttura pagina"
-    }
-  ]
+  "errors": []
 }
