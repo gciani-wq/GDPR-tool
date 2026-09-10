@@ -59,7 +59,7 @@ HTTP_TIMEOUT = 30
 
 MAX_KEYS_PER_SOURCE = 400          # tetto chiavi storicizzate per fonte
 SEED_MAX_SUMMARIES_PER_SOURCE = 5  # riassunti AI al primo run (baseline)
-MAX_GEMINI_CALLS = 40              # tetto globale chiamate Gemini per run
+MAX_GEMINI_CALLS = 80              # tetto globale chiamate Gemini per run
 GEMINI_SLEEP = 1.0                 # pausa tra chiamate Gemini (anti rate-limit)
 HISTORY_MAX_DAYS = 120             # entry conservate nella serie storica
 
@@ -93,8 +93,16 @@ SOURCES = [
         # espone i link nel sorgente statico, quindi si usa il feed.
         "url": "https://www.edpb.europa.eu/feed/news_en",
     },
-    # EUR-Lex disattivato: pagina versioni consolidate caricata via JS,
-    # scraping statico non affidabile. Da riattivare con metodo dedicato.
+    # EUR-Lex temporaneamente disattivato: la pagina delle versioni consolidate
+    # del GDPR è caricata via JavaScript e lo scraping statico non è affidabile.
+    # Il testo del GDPR viene emendato molto di rado; da riattivare con un metodo
+    # dedicato (es. EUR-Lex web service / cellar) quando serve.
+    # {
+    #     "id": "eurlex",
+    #     "label": "EUR-Lex — Reg. (UE) 2016/679 (GDPR)",
+    #     "kind": "eurlex",
+    #     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679",
+    # },
 ]
 
 
@@ -510,31 +518,60 @@ def main():
     # ------------------------------------------------------------------ #
     # Arricchimento AI (Gemini) — con tetti anti-costo
     # ------------------------------------------------------------------ #
+    have_key = bool(os.environ.get("GEMINI_API_KEY"))
     gemini_calls = 0
+
+    def _no_ai(title):
+        # Senza key: mostra il titolo come riassunto (niente messaggio d'errore
+        # persistente). ai_ok=False così verrà ri-riassunto quando la key ci sarà.
+        return {"summary": title, "category": "Comunicazione / News",
+                "relevance": "low", "key_points": [], "ai_ok": False}
+
+    def _persist(key, sid, result):
+        entry = new_state["sources"][sid]["items"].get(key)
+        if entry is not None:
+            entry["category"] = result.get("category", "")
+            entry["relevance"] = result.get("relevance", "")
+            entry["summary"] = result.get("summary", "")
+            entry["ai_ok"] = bool(result.get("ai_ok", False))
+
+    # 1) Eventi nuovi/cambiati di questo run
     for ev in all_events:
         sid = ev["source_id"]
-        skip_ai = False
-        if is_baseline and per_source_seed_count.get(sid, 0) >= SEED_MAX_SUMMARIES_PER_SOURCE:
-            skip_ai = True
-        if gemini_calls >= MAX_GEMINI_CALLS:
-            skip_ai = True
-
-        if skip_ai:
-            result = {"summary": ev["title"], "category": "Comunicazione / News",
-                      "relevance": "low", "key_points": [], "ai_ok": False}
+        if (not have_key or gemini_calls >= MAX_GEMINI_CALLS or
+                (is_baseline and per_source_seed_count.get(sid, 0) >= SEED_MAX_SUMMARIES_PER_SOURCE)):
+            result = _no_ai(ev["title"])
         else:
             result = gemini_client.summarize_event(ev)
             gemini_calls += 1
             per_source_seed_count[sid] = per_source_seed_count.get(sid, 0) + 1
             time.sleep(GEMINI_SLEEP)
-
         ev.update(result)
-        # scrivi l'arricchimento anche nello stato persistente (per la dashboard)
-        entry = new_state["sources"][sid]["items"].get(ev["key"])
-        if entry is not None:
-            entry["category"] = result.get("category", "")
-            entry["relevance"] = result.get("relevance", "")
-            entry["summary"] = result.get("summary", "")
+        _persist(ev["key"], sid, result)
+
+    # 2) "Healing": item già presenti ma senza riassunto AI valido (es. scan
+    #    girati prima che la GEMINI_API_KEY fosse configurata) vengono
+    #    ri-riassunti, entro il budget del run. Salta se la key non c'è.
+    if have_key:
+        for sid, sdata in new_state["sources"].items():
+            for key, entry in sdata.get("items", {}).items():
+                if gemini_calls >= MAX_GEMINI_CALLS:
+                    break
+                if entry.get("ai_ok") is True:
+                    continue
+                ev_like = {
+                    "title": entry.get("title", ""),
+                    "url": entry.get("url", ""),
+                    "date": entry.get("date", ""),
+                    "source_label": entry.get("source_label", ""),
+                    "raw_text": "",
+                    "extra": "",
+                    "change_type": entry.get("status", "seen"),
+                }
+                result = gemini_client.summarize_event(ev_like)
+                gemini_calls += 1
+                _persist(key, sid, result)
+                time.sleep(GEMINI_SLEEP)
 
     # ------------------------------------------------------------------ #
     # Output
