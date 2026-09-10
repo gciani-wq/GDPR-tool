@@ -93,12 +93,8 @@ SOURCES = [
         # espone i link nel sorgente statico, quindi si usa il feed.
         "url": "https://www.edpb.europa.eu/feed/news_en",
     },
-    {
-        "id": "eurlex",
-        "label": "EUR-Lex — Reg. (UE) 2016/679 (GDPR)",
-        "kind": "eurlex",
-        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679",
-    },
+    # EUR-Lex disattivato: pagina versioni consolidate caricata via JS,
+    # scraping statico non affidabile. Da riattivare con metodo dedicato.
 ]
 
 
