@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-09-10T10:49:21Z",
+  "last_run_utc": "2026-09-10T11:45:02Z",
   "sources": {
     "aepd": {
       "items": {
@@ -14,7 +14,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD celebra la primera reunión de la Red de grupos de inv",
           "title": "La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1781245314,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-celebra-primera-reunion-red-grupos-investigacion-sobre-privacidad-y-tecnologias-emergentes"
@@ -30,7 +30,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Red Iberoamericana aprueba un documento de referencia sobr",
           "title": "La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "ts": 1782115410,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos"
@@ -46,7 +46,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD y la CNMC refuerzan su colaboración para proteger los",
           "title": "La AEPD y la CNMC refuerzan su colaboración para proteger los derechos de las personas en el entorno digital",
           "ts": 1781092579,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-cnmc-refuerzan-su-colaboracion-para-proteger-derechos-personas"
@@ -62,7 +62,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Agencia reabre la inscripción a la Red pública de grupos y",
           "title": "La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1784793600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion"
@@ -78,7 +78,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Agencia Española de Protección de Datos inicia una nueva e",
           "title": "La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "ts": 1782288000,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-espanola-de-proteccion-de-datos-inicia-nueva-etapa"
@@ -94,7 +94,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD publica unas orientaciones sobre el uso de videocámar",
           "title": "La AEPD publica unas orientaciones sobre el uso de videocámaras en el hogar  de personas mayores para compatibilizar cuidados y privacidad",
           "ts": 1780902900,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-unas-orientaciones-sobre-uso-videocamaras-hogar"
@@ -110,7 +110,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD analiza la calidad, exactitud y minimización de datos",
           "title": "La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "ts": 1784618385,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia"
@@ -126,7 +126,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD, galardonada con el ‘Premio de Auditoría de Sistemas ",
           "title": "La AEPD, galardonada con el ‘Premio de Auditoría de Sistemas de Información’ en los Premios ISACA Valencia",
           "ts": 1780995323,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-galardonada-con-premio-auditoria-sistemas-premios-isaca-valencia"
@@ -142,7 +142,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD y la AESIA abordan la coordinación institucional en m",
           "title": "La AEPD y la AESIA abordan la coordinación institucional en materia de protección de datos e inteligencia artificial",
           "ts": 1784537158,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-aesia-abordan-coordinacion-institucional"
@@ -158,7 +158,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD estrena ‘Las claves de…’, un nuevo formato de diálogo",
           "title": "La AEPD estrena ‘Las claves de…’, un nuevo formato de diálogo con especialistas sobre privacidad y tecnologías emergentes",
           "ts": 1788854400,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-estrena-las-claves-de-un-nuevo-formato-de-dialogo-con-especialistas"
@@ -174,7 +174,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD publica más de 1.500 informes jurídicos para facilita",
           "title": "La AEPD publica más de 1.500 informes jurídicos para facilitar su reutilización y reforzar la seguridad jurídica",
           "ts": 1779958800,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-mas-de-1500-informes-juridicos"
@@ -190,7 +190,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD participará en las XX Jornadas STIC con una jornada d",
           "title": "La AEPD participará en las XX Jornadas STIC con una jornada dedicada a la protección de datos",
           "ts": 1788334200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-participara-xx-jornadas-stic"

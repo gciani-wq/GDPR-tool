@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-10T10:49:21Z",
+  "generated_utc": "2026-09-10T11:45:02Z",
   "stats": {
     "total_items": 56,
     "changes_7d": 56,
@@ -65,7 +65,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD estrena ‘Las claves de…’, un nuevo formato de diálogo",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788854400
@@ -110,7 +110,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD participará en las XX Jornadas STIC con una jornada d",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788334200
@@ -245,7 +245,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Agencia reabre la inscripción a la Red pública de grupos y",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -260,7 +260,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD analiza la calidad, exactitud y minimización de datos",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784618385
@@ -290,7 +290,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD y la AESIA abordan la coordinación institucional en m",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784537158
@@ -530,7 +530,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Agencia Española de Protección de Datos inicia una nueva e",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782288000
@@ -545,7 +545,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La Red Iberoamericana aprueba un documento de referencia sobr",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782115410
@@ -620,7 +620,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD celebra la primera reunión de la Red de grupos de inv",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781245314
@@ -635,7 +635,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD y la CNMC refuerzan su colaboración para proteger los",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781092579
@@ -650,7 +650,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD, galardonada con el ‘Premio de Auditoría de Sistemas ",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780995323
@@ -665,7 +665,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD publica unas orientaciones sobre el uso de videocámar",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780902900
@@ -695,7 +695,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [reason: \"ACCESS_TOKEN_TYPE_UNSUPPORTED\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\nmetadata {\n  key: \"method",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}] La AEPD publica más de 1.500 informes jurídicos para facilita",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1779958800
