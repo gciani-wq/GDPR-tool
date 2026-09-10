@@ -88,14 +88,16 @@ SOURCES = [
     {
         "id": "edpb",
         "label": "EDPB (UE)",
-        "kind": "edpb_html",
-        "url": "https://www.edpb.europa.eu/news_en",
+        "kind": "rss",
+        # Feed RSS diretto: la pagina HTML news_en è renderizzata via JS e non
+        # espone i link nel sorgente statico, quindi si usa il feed.
+        "url": "https://www.edpb.europa.eu/feed/news_en",
     },
     {
         "id": "eurlex",
         "label": "EUR-Lex — Reg. (UE) 2016/679 (GDPR)",
         "kind": "eurlex",
-        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679",
     },
 ]
 
@@ -585,9 +587,14 @@ def main():
           f"{len(errors)} errori. Baseline={is_baseline}. Gemini={gemini_calls}. "
           f"Item totali in dashboard={dashboard['stats']['total_items']}.")
 
+    # Fail-loud solo se TUTTE le fonti falliscono (outage vero): un errore
+    # parziale è visibile su dashboard e Slack, ma non rende rosso il run.
     if errors:
-        print(f"[ATTENZIONE] {len(errors)} fonte/i in errore — l'Action verrà "
-              f"marcata come fallita.", file=sys.stderr)
+        print(f"[ATTENZIONE] {len(errors)} fonte/i in errore su {len(SOURCES)} "
+              f"(vedi banner sulla dashboard).", file=sys.stderr)
+    if errors and len(errors) >= len(SOURCES):
+        print("[ERRORE] tutte le fonti in errore — l'Action verrà marcata come "
+              "fallita.", file=sys.stderr)
         sys.exit(1)
 
 
