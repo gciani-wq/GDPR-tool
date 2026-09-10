@@ -170,6 +170,14 @@ def send(blocks, fallback_text):
 
 
 def main():
+    # Se il webhook non è ancora configurato, salta la notifica senza fallire:
+    # è uno stato di setup, non un errore. (Quando il webhook c'è ma l'invio
+    # fallisce, send() esce comunque con codice 1.)
+    if not os.environ.get("SLACK_WEBHOOK_URL"):
+        print("[notify] SLACK_WEBHOOK_URL non configurato: notifica saltata "
+              "(configura il secret per attivare le notifiche Slack).")
+        return
+
     changes = load_changes()
     if changes is None:
         return
