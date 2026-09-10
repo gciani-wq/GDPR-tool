@@ -60,7 +60,8 @@ HTTP_TIMEOUT = 30
 MAX_KEYS_PER_SOURCE = 400          # tetto chiavi storicizzate per fonte
 SEED_MAX_SUMMARIES_PER_SOURCE = 5  # riassunti AI al primo run (baseline)
 MAX_GEMINI_CALLS = 80              # tetto globale chiamate Gemini per run
-GEMINI_SLEEP = 1.0                 # pausa tra chiamate Gemini (anti rate-limit)
+HEAL_MAX_PER_RUN = 12              # quanti item "vecchi" ri-riassumere per run
+GEMINI_SLEEP = 4.0                 # pausa tra chiamate Gemini (piano gratuito ~15 RPM)
 HISTORY_MAX_DAYS = 120             # entry conservate nella serie storica
 
 # --------------------------------------------------------------------------- #
@@ -552,10 +553,13 @@ def main():
     # 2) "Healing": item già presenti ma senza riassunto AI valido (es. scan
     #    girati prima che la GEMINI_API_KEY fosse configurata) vengono
     #    ri-riassunti, entro il budget del run. Salta se la key non c'è.
+    healed = 0
     if have_key:
         for sid, sdata in new_state["sources"].items():
+            if healed >= HEAL_MAX_PER_RUN:
+                break
             for key, entry in sdata.get("items", {}).items():
-                if gemini_calls >= MAX_GEMINI_CALLS:
+                if healed >= HEAL_MAX_PER_RUN or gemini_calls >= MAX_GEMINI_CALLS:
                     break
                 if entry.get("ai_ok") is True:
                     continue
@@ -570,6 +574,7 @@ def main():
                 }
                 result = gemini_client.summarize_event(ev_like)
                 gemini_calls += 1
+                healed += 1
                 _persist(key, sid, result)
                 time.sleep(GEMINI_SLEEP)
 
