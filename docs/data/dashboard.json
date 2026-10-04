@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-03T06:24:22Z",
+  "generated_utc": "2026-10-04T11:25:04Z",
   "stats": {
     "total_items": 67,
-    "changes_7d": 4,
+    "changes_7d": 3,
     "changes_30d": 67,
     "sources_count": 4,
     "by_source": {
@@ -12,8 +12,8 @@
       "EDPB (UE)": 14
     },
     "by_relevance": {
-      "high": 8,
-      "medium": 35,
+      "high": 5,
+      "medium": 38,
       "low": 24
     }
   },
@@ -137,6 +137,11 @@
       "date": "2026-10-03",
       "new": 1,
       "changed": 0
+    },
+    {
+      "date": "2026-10-04",
+      "new": 0,
+      "changed": 0
     }
   ],
   "items": [
@@ -147,7 +152,7 @@
       "title": "COMUNICATO STAMPA - Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro. Non anonimi i dati di un milione di pazienti di 800 medici di famiglia",
       "url": "https://www.gpdp.it/garante/doc.jsp?ID=10302141",
       "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "status": "new",
+      "status": "seen",
       "category": "Provvedimento sanzionatorio",
       "relevance": "high",
       "summary": "Il Garante Privacy ha sanzionato IQVIA Solutions Italy S.r.l. per 7 milioni di euro per violazioni nel trattamento di dati sanitari. I dati di circa un milione di pazienti, raccolti da 800 medici di famiglia, sono stati ritenuti non realmente anonimi. Il caso evidenzia l'impatto di compliance sui criteri e le garanzie tecniche necessarie per la corretta anonimizzazione dei dati particolari.",
@@ -194,8 +199,8 @@
       "date": "Wed, 23 Sep 2026 17:59:57 +0200",
       "status": "seen",
       "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha pubblicato un richiamo sulle garanzie da adottare nell'uso dell'IA per l'analisi dei CV. Il comunicato evidenzia la necessità di rispettare i principi GDPR di trasparenza, minimizzazione e i limiti alle decisioni automatizzate (art. 22 GDPR) nei processi di selezione del personale, evidenziando l'importanza di svolgere la DPIA per mitigare i rischi di discriminazione.",
+      "relevance": "medium",
+      "summary": "L'AEPD ha pubblicato una comunicazione per richiamare le garanzie necessarie nell'impiego dell'intelligenza artificiale per l'analisi dei curriculum vitae. L'argomento è rilevante per la compliance GDPR, poiché l'uso di strumenti automatizzati nella selezione del personale impatta sulla trasparenza, sulle basi giuridiche del trattamento e sui diritti contro le decisioni automatizzate.",
       "first_seen": "2026-09-26",
       "last_change": "2026-09-26",
       "ts": 1790179197
@@ -360,7 +365,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha annunciato il lancio di 'Las claves de...', un nuovo format di dialogo con esperti focalizzato su privacy e tecnologie emergenti. Sebbene l'iniziativa non introduca nuovi obblighi giuridici diretti, essa rileva per gli auditor in quanto fonte utile per comprendere i futuri orientamenti dell'Autorità e le best practice nell'analisi d'impatto di nuove tecnologie.",
+      "summary": "L'AEPD ha lanciato 'Las claves de...', un nuovo formato di dialogo con specialisti incentrato su privacy e tecnologie emergenti. L'iniziativa intende approfondire l'impatto delle innovazioni tecnologiche sulla protezione dei dati. Pur avendo natura informativa, il format può offrire spunti utili agli auditor per comprendere gli orientamenti dell'Autorità sulle tecnologie emergenti.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788854400
@@ -405,7 +410,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha annunciato la propria partecipazione alle XX Giornate STIC con una sessione dedicata alla protezione dei dati personali. Trattandosi dell'annuncio di un evento istituzionale e divulgativo, l'iniziativa non introduce nuovi obblighi né modifiche normative dirette, mantenendo un impatto limitato sulle attività immediate di compliance e audit.",
+      "summary": "L'AEPD ha annunciato la propria partecipazione alle XX Giornate STIC con una sessione dedicata alla protezione dei dati personali. Trattandosi dell'annuncio di un evento istituzionale, la notizia ha carattere prevalentemente informativo e non comporta impatti diretti sugli obblighi normativi o sulle procedure di compliance per le organizzazioni.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788334200
@@ -525,7 +530,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a promuovere la collaborazione scientifica nell'analisi dell'impatto delle nuove tecnologie sulla protezione dei dati. Rileva per la compliance come canale informativo utile a monitorare i futuri orientamenti e studi tecnico-scientifici dell'Autorità.",
+      "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca focalizzati su privacy e tecnologie emergenti. L'iniziativa rileva per la compliance in quanto promuove le sinergie tra enti di ricerca, innovazione tecnologica e tutela dei dati personali, agevolando l'analisi degli impatti privacy delle nuove tecnologie.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -538,9 +543,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia",
       "date": "Tue, 21 Jul 2026 09:19:45 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha pubblicato un'analisi sull'applicazione dei principi GDPR di qualità, esattezza e minimizzazione dei dati nei trattamenti effettuati tramite sistemi di intelligenza artificiale. L'intervento fornisce elementi utili agli auditor per valutare la compliance, la privacy by design e la gestione dei rischi legati all'adozione di tecnologie IA.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784618385
@@ -570,7 +575,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "L'AEPD e l'AESIA (Agenzia Spagnola per la Supervisione dell'IA) hanno avviato un coordinamento istituzionale sulla convergenza tra protezione dei dati e intelligenza artificiale. L'iniziativa è rilevante per la compliance poiché delinea la futura cooperazione regolatoria tra autorità privacy e AI, facilitando la conformità integrata per i trattamenti di dati effettuati mediante sistemi di IA.",
+      "summary": "L'AEPD e l'AESIA hanno avviato un coordinamento istituzionale per definire la collaborazione tra protezione dei dati e intelligenza artificiale. La sinergia tra le due autorità è rilevante per la compliance integrata tra GDPR e AI Act e la gestione dei rischi sui trattamenti svolti tramite sistemi di IA.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784537158
@@ -810,7 +815,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha pubblicato una nota stampa che annuncia l'avvio di una nuova fase istituzionale al servizio della cittadinanza. Trattandosi di una comunicazione di carattere generale, l'impatto diretto ed immediato sugli adempimenti operativi di compliance GDPR risulta contenuto, pur segnalando l'orientamento strategico dell'Autorità di controllo spagnola.",
+      "summary": "L'Autorità Garante spagnola (AEPD) ha annunciato l'avvio di una nuova fase istituzionale al servizio dei cittadini. Trattandosi di una comunicazione di carattere generale sull'orientamento dell'Autorità, non si rilevano impatti diretti immediati sugli adempimenti di compliance GDPR, pur segnalando una potenziale evoluzione nelle priorità di vigilanza dell'autorità di controllo.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782288000
@@ -823,9 +828,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos",
       "date": "Mon, 22 Jun 2026 10:03:30 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
+      "category": "Altro",
       "relevance": "medium",
-      "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate richieste per il trattamento dei neurodati in ambito non sanitario. Il documento rileva per la compliance definendo indirizzi e misure di tutela rafforzate per il trattamento di dati neurali al di fuori del contesto strettamente medico o sanitario.",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782115410
@@ -900,7 +905,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha tenuto la prima riunione della Rete dei gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a favorire la collaborazione tra l'Autorità e il mondo accademico e scientifico per analizzare l'impatto delle nuove tecnologie sulla protezione dei dati. L'evento rileva per comprendere i futuri orientamenti tecnico-regolatori dell'Autorità spagnola.",
+      "summary": "L'AEPD ha tenuto la prima riunione della Rete di gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a rafforzare la collaborazione tra l'Autorità di controllo e il mondo accademico per analizzare l'impatto delle tecnologie emergenti sulla tutela dei dati personali, promuovendo studi utili per valutare le sfide future in materia di compliance e protezione dati.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781245314
@@ -915,7 +920,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "L'AEPD e la CNMC hanno rafforzato la collaborazione istituzionale per tutelare i diritti delle persone nell'ambiente digitale. L'accordo punta a coordinare le attività di vigilanza e regolamentazione tra l'autorità di protezione dati e quella di concorrenza e mercati, garantendo un approccio integrato e coerente nella supervisione delle dinamiche e dei mercati digitali.",
+      "summary": "L'AEPD e la CNMC (Commissione spagnola per i mercati e la concorrenza) hanno rafforzato la cooperazione istituzionale per tutelare i diritti delle persone nell'ambiente digitale. L'accordo mira a coordinare l'applicazione delle normative sulla protezione dei dati e sulla concorrenza, potenziando la vigilanza congiunta sugli operatori del settore digitale.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781092579
@@ -930,7 +935,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha ricevuto il riconoscimento 'Premio de Auditoría de Sistemas de Información' ai Premi ISACA Valencia. Trattandosi dell'assegnazione di un premio istituzionale, la notizia non introduce nuove prescrizioni normative né modifiche operative ai requisiti di compliance GDPR per aziende o auditor.",
+      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) è stata insignita del premio per l'auditing dei sistemi informativi agli ISACA Valencia Awards. Trattandosi di un riconoscimento istituzionale, la notizia ha carattere meramente informativo e non comporta variazioni normative né impatti operativi diretti sui processi di compliance o audit GDPR.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780995323
@@ -945,7 +950,7 @@
       "status": "seen",
       "category": "Linee guida",
       "relevance": "medium",
-      "summary": "L'AEPD ha pubblicato orientamenti sull'uso di videocamere nelle abitazioni di persone anziane per bilanciare le esigenze di cura e la tutela della privacy. Il documento fornisce indicazioni per garantire il rispetto dei principi del GDPR (minimizzazione, trasparenza e liceità) nell'impiego della videosorveglianza domestica, tutelando sia gli assistiti sia i caregiver.",
+      "summary": "L'AEPD ha pubblicato un documento di orientamento sull'uso di videocamere presso il domicilio di persone anziane, volto a conciliare le esigenze di assistenza e cura con la tutela della privacy. La pubblicazione fornisce indicazioni di compliance per garantire che l'impiego di strumenti di videosorveglianza domestica rispetti i principi del GDPR e i diritti dei soggetti vulnerabili.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780902900
@@ -973,9 +978,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-mas-de-1500-informes-juridicos",
       "date": "Thu, 28 May 2026 11:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
+      "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD publica más de 1.500 informes jurídicos para facilitar su reutilización y reforzar la seguridad jurídica",
+      "summary": "L'AEPD ha reso pubblici oltre 1.500 rapporti e pareri giuridici per favorirne il riutilizzo e rafforzare la certezza del diritto. Per i professionisti della compliance, tale banca dati costituisce un importante punto di riferimento interpretativo sull'applicazione del GDPR, utile per orientare le analisi dei rischi e le valutazioni di conformità.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1779958800
@@ -988,9 +993,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-promueve-ante-las-autoridades-europeas-proteccion-estudie-ia",
       "date": "Wed, 27 May 2026 11:59:31 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha chiesto alle autorità europee per la protezione dei dati di analizzare se alcuni sistemi di intelligenza artificiale consentano l'accesso a conversazioni da parte di terzi. L'iniziativa rileva per la compliance poiché evidenzia potenziali rischi di riservatezza, fuga di dati e non conformità al GDPR nell'uso aziendale di strumenti di IA conversazionale.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1779875971
@@ -1005,7 +1010,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD e l'Universidade da Coruña organizzano un corso estivo dedicato a governo societario, gestione dei rischi, intelligenza artificiale e conformità normativa. Trattandosi di un'iniziativa formativa ed accademica, la notizia non introduce nuovi obblighi regolamentari diretti, ma segnala il focus istituzionale sulla convergenza tra compliance, IA e gestione del rischio.",
+      "summary": "L'AEPD e l'Universidade da Coruña hanno organizzato un corso estivo focalizzato su governo societario, gestione dei rischi, intelligenza artificiale e compliance normativa. L'evento ha carattere prevalentemente formativo e divulgativo, senza introdurre nuovi obblighi normativi o linee guida vincolanti per gli operatori di compliance.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1779696346
