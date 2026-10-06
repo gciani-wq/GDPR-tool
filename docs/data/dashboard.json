@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-05T06:26:43Z",
+  "generated_utc": "2026-10-06T06:22:01Z",
   "stats": {
     "total_items": 67,
-    "changes_7d": 3,
+    "changes_7d": 7,
     "changes_30d": 67,
     "sources_count": 4,
     "by_source": {
@@ -12,9 +12,9 @@
       "EDPB (UE)": 14
     },
     "by_relevance": {
-      "high": 5,
-      "medium": 45,
-      "low": 17
+      "high": 3,
+      "medium": 46,
+      "low": 18
     }
   },
   "timeline": [
@@ -147,9 +147,74 @@
       "date": "2026-10-05",
       "new": 0,
       "changed": 0
+    },
+    {
+      "date": "2026-10-06",
+      "new": 0,
+      "changed": 4
     }
   ],
   "items": [
+    {
+      "id": "edpb:c59ebadc-0f84-4277-a932-82327b3b947f",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
+      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "date": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
+      "first_seen": "2026-09-24",
+      "last_change": "2026-10-06",
+      "ts": 1790164800
+    },
+    {
+      "id": "edpb:688d1f26-1e12-479b-b01c-1dfe4a9559f0",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable tele",
+      "first_seen": "2026-09-23",
+      "last_change": "2026-10-06",
+      "ts": 1790078400
+    },
+    {
+      "id": "edpb:9cce9bb5-3b4a-441b-a006-9f0ca73ef17f",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
+      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
+      "first_seen": "2026-09-11",
+      "last_change": "2026-10-06",
+      "ts": 1789128000
+    },
+    {
+      "id": "edpb:a7b37093-b10c-4b07-9c01-53bf9f90e6bf",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
+      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
+      "first_seen": "2026-09-10",
+      "last_change": "2026-10-06",
+      "ts": 1788955200
+    },
     {
       "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10302141",
       "source_id": "garante_comunicati",
@@ -205,40 +270,10 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
       "first_seen": "2026-09-26",
       "last_change": "2026-09-26",
       "ts": 1790179197
-    },
-    {
-      "id": "edpb:c59ebadc-0f84-4277-a932-82327b3b947f",
-      "source_id": "edpb",
-      "source_label": "EDPB (UE)",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "date": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "first_seen": "2026-09-24",
-      "last_change": "2026-09-24",
-      "ts": 1790164800
-    },
-    {
-      "id": "edpb:688d1f26-1e12-479b-b01c-1dfe4a9559f0",
-      "source_id": "edpb",
-      "source_label": "EDPB (UE)",
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
-      "date": "Tue, 22 Sep 2026 12:00:00 +0000",
-      "status": "seen",
-      "category": "Provvedimento sanzionatorio",
-      "relevance": "high",
-      "summary": "L'AEPD ha sanzionato Securitas Direct con 100.000 € per violazione dell'Art. 12 GDPR. L'azienda indicava un numero a pagamento nelle informative di videosorveglianza per l'esercizio dei diritti di accesso e opposizione. L'Autorità ha ribadito che l'esercizio dei diritti deve essere gratuito e facilitato: la presenza di canali gratuiti alternativi sul sito non compensa l'indicazione di un canale o…",
-      "first_seen": "2026-09-23",
-      "last_change": "2026-09-23",
-      "ts": 1790078400
     },
     {
       "id": "edpb:f3b54281-c7c0-4e72-949b-5681fc373458",
@@ -301,21 +336,6 @@
       "ts": 1789084800
     },
     {
-      "id": "edpb:9cce9bb5-3b4a-441b-a006-9f0ca73ef17f",
-      "source_id": "edpb",
-      "source_label": "EDPB (UE)",
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
-      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
-      "date": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "status": "seen",
-      "category": "Provvedimento sanzionatorio",
-      "relevance": "high",
-      "summary": "La CNIL ha inflitto a EXTIA una sanzione di 300.000 € per la violazione degli artt. 12 e 17 GDPR. L'autorità ha accertato il mancato o inadeguato riscontro a oltre il 75% delle richieste di cancellazione presentate nel 2024 da candidati ed ex dipendenti. Il caso evidenzia la necessità per la compliance di definire procedure rigorose e tempestive per l'esercizio dei diritti degli interessati.",
-      "first_seen": "2026-09-11",
-      "last_change": "2026-09-11",
-      "ts": 1789128000
-    },
-    {
       "id": "aepd:098badcc-36d4-44b2-88f2-a47fa34646bf",
       "source_id": "aepd",
       "source_label": "AEPD (Spagna)",
@@ -344,21 +364,6 @@
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788957541
-    },
-    {
-      "id": "edpb:a7b37093-b10c-4b07-9c01-53bf9f90e6bf",
-      "source_id": "edpb",
-      "source_label": "EDPB (UE)",
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
-      "date": "Wed, 09 Sep 2026 12:00:00 +0000",
-      "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: GEMINI_API_KEY non impostata. Configurarla come GitHub Secret.] Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-      "first_seen": "2026-09-10",
-      "last_change": "2026-09-10",
-      "ts": 1788955200
     },
     {
       "id": "aepd:53407f28-79d5-43ba-976f-e03e3a18f49e",
@@ -533,9 +538,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion",
       "date": "Thu, 23 Jul 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica dei gruppi e progetti di ricerca sulla privacy e sulle tecnologie emergenti. L'iniziativa intende incentivare la cooperazione scientifica e lo studio delle sfide di compliance e protezione dati connesse alle nuove tecnologie, offrendo opportunità di confronto strategico per gli enti operanti nel settore dell'innovazione.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -833,9 +838,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos",
       "date": "Mon, 22 Jun 2026 10:03:30 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
+      "category": "Altro",
       "relevance": "medium",
-      "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate necessarie per il trattamento dei neurodati in ambito non sanitario. L'iniziativa rileva per la compliance in quanto fornisce indicazioni per la gestione dei rischi e la tutela dei diritti fondamentali nell'impiego di tecnologie neuro-digitali al di fuori del contesto medico.",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782115410
@@ -925,7 +930,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD y la CNMC refuerzan su colaboración para proteger los derechos de las personas en el entorno digital",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781092579
