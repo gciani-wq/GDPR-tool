@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-10-06T06:22:01Z",
+  "generated_utc": "2026-10-07T06:21:38Z",
   "stats": {
-    "total_items": 67,
+    "total_items": 68,
     "changes_7d": 7,
-    "changes_30d": 67,
+    "changes_30d": 68,
     "sources_count": 4,
     "by_source": {
-      "AEPD (Spagna)": 29,
+      "AEPD (Spagna)": 30,
       "Garante Privacy — Comunicati stampa (Italia)": 12,
       "Garante Privacy — Newsletter (Italia)": 12,
       "EDPB (UE)": 14
     },
     "by_relevance": {
-      "high": 3,
-      "medium": 46,
-      "low": 18
+      "high": 2,
+      "medium": 49,
+      "low": 17
     }
   },
   "timeline": [
@@ -152,9 +152,59 @@
       "date": "2026-10-06",
       "new": 0,
       "changed": 4
+    },
+    {
+      "date": "2026-10-07",
+      "new": 1,
+      "changed": 2
     }
   ],
   "items": [
+    {
+      "id": "aepd:35d8717b-1c45-4fc8-a2cb-9387de7e04c9",
+      "source_id": "aepd",
+      "source_label": "AEPD (Spagna)",
+      "title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia",
+      "date": "Tue, 06 Oct 2026 10:00:00 +0200",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+      "first_seen": "2026-10-07",
+      "last_change": "2026-10-07",
+      "ts": 1791273600
+    },
+    {
+      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10302141",
+      "source_id": "garante_comunicati",
+      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
+      "title": "COMUNICATO STAMPA - Dati sanitari: 7 milioni di euro di sanzione",
+      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10302141",
+      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] COMUNICATO STAMPA - Dati sanitari: 7 milioni di euro di sanzione",
+      "first_seen": "2026-10-03",
+      "last_change": "2026-10-07",
+      "ts": 1790899200
+    },
+    {
+      "id": "garante_newsletter:https://www.gpdp.it/garante/doc.jsp?ID=10300466",
+      "source_id": "garante_newsletter",
+      "source_label": "Garante Privacy — Newsletter (Italia)",
+      "title": "NEWSLETTER del 30 settembre 2026",
+      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10300466",
+      "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] NEWSLETTER del 30 settembre 2026",
+      "first_seen": "2026-10-01",
+      "last_change": "2026-10-07",
+      "ts": 1790726400
+    },
     {
       "id": "edpb:c59ebadc-0f84-4277-a932-82327b3b947f",
       "source_id": "edpb",
@@ -162,7 +212,7 @@
       "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "status": "changed",
+      "status": "seen",
       "category": "Altro",
       "relevance": "medium",
       "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
@@ -177,7 +227,7 @@
       "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
       "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
       "date": "Tue, 22 Sep 2026 12:00:00 +0000",
-      "status": "changed",
+      "status": "seen",
       "category": "Altro",
       "relevance": "medium",
       "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable tele",
@@ -192,7 +242,7 @@
       "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
       "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
       "date": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "status": "changed",
+      "status": "seen",
       "category": "Altro",
       "relevance": "medium",
       "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
@@ -207,43 +257,13 @@
       "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
       "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
       "date": "Wed, 09 Sep 2026 12:00:00 +0000",
-      "status": "changed",
+      "status": "seen",
       "category": "Altro",
       "relevance": "medium",
       "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
       "first_seen": "2026-09-10",
       "last_change": "2026-10-06",
       "ts": 1788955200
-    },
-    {
-      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10302141",
-      "source_id": "garante_comunicati",
-      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
-      "title": "COMUNICATO STAMPA - Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro. Non anonimi i dati di un milione di pazienti di 800 medici di famiglia",
-      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10302141",
-      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "status": "seen",
-      "category": "Provvedimento sanzionatorio",
-      "relevance": "high",
-      "summary": "Il Garante Privacy ha sanzionato IQVIA Solutions Italy S.r.l. per 7 milioni di euro per violazioni nel trattamento di dati sanitari. I dati di circa un milione di pazienti, raccolti da 800 medici di famiglia, sono stati ritenuti non realmente anonimi. Il caso evidenzia l'impatto di compliance sui criteri e le garanzie tecniche necessarie per la corretta anonimizzazione dei dati particolari.",
-      "first_seen": "2026-10-03",
-      "last_change": "2026-10-03",
-      "ts": 1790899200
-    },
-    {
-      "id": "garante_newsletter:https://www.gpdp.it/garante/doc.jsp?ID=10300466",
-      "source_id": "garante_newsletter",
-      "source_label": "Garante Privacy — Newsletter (Italia)",
-      "title": "NEWSLETTER 30/09/26 - Convegno il 20 ottobre con i consumatori - Sanzione di 39mila euro a società di vigilanza di Bologna - Più tutele per rider e lavoratori gestiti da piattaforme digitali - Recupero crediti: online la versione aggiornata del vademecum - Videosorveglianza, sanzionato l’Istituto Nazionale di Ricerca Metrologica - Il ruolo del RPD al centro del nuovo episodio del podcast",
-      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10300466",
-      "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "status": "seen",
-      "category": "Newsletter",
-      "relevance": "medium",
-      "summary": "La Newsletter n. 552 del Garante riassume rilevanti novità di compliance: provvedimenti sanzionatori in materia di videosorveglianza e vigilanza privata, la pubblicazione del vademecum aggiornato sul recupero crediti, nuove tutele per i lavoratori digitali e approfondimenti sul ruolo del RPD. Rileva per l'adeguamento della gestione del personale, della videosorveglianza e della tutela dei dati.",
-      "first_seen": "2026-10-01",
-      "last_change": "2026-10-01",
-      "ts": 1790726400
     },
     {
       "id": "edpb:a9150158-322f-4b05-9a06-258875efe00a",
@@ -538,9 +558,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion",
       "date": "Thu, 23 Jul 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica dei gruppi e progetti di ricerca sulla privacy e sulle tecnologie emergenti. L'iniziativa intende incentivare la cooperazione scientifica e lo studio delle sfide di compliance e protezione dati connesse alle nuove tecnologie, offrendo opportunità di confronto strategico per gli enti operanti nel settore dell'innovazione.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -840,7 +860,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782115410
@@ -930,7 +950,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD y la CNMC refuerzan su colaboración para proteger los derechos de las personas en el entorno digital",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781092579
