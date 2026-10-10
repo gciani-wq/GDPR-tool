@@ -1,20 +1,20 @@
 {
-  "last_run_utc": "2026-10-09T06:23:16Z",
+  "last_run_utc": "2026-10-10T06:21:19Z",
   "sources": {
     "aepd": {
       "items": {
         "aepd:08add936-6a18-46bd-a362-01ee77e16b90": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Fri, 12 Jun 2026 08:21:54 +0200",
           "first_seen": "2026-09-10",
           "hash": "c1f580da3bccb486",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha tenuto la prima riunione della Rete dei gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa punta a rafforzare la collaborazione tra l'Autorità e il settore scientifico-accademico per valutare l'impatto delle innovazioni tecnologiche sulla protezione dei dati. Per la compliance, rileva come indicatore delle future priorità di analisi e indirizzo regolatorio dell'Autorità.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
           "title": "La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1781245314,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-celebra-primera-reunion-red-grupos-investigacion-sobre-privacidad-y-tecnologias-emergentes"
@@ -46,14 +46,14 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha pubblicato un comunicato per ricordare le garanzie di protezione dati necessarie quando si utilizzano sistemi di intelligenza artificiale per l'analisi dei curriculum vitae. L'intervento rileva per la compliance aziendale poiché richiama il rispetto dei principi del GDPR, della trasparenza e delle tutele sui trattamenti automatizzati nei processi di selezione del personale.",
+          "summary": "L'AEPD ha pubblicato un comunicato per richiamare le garanzie GDPR fondamentali nell'uso dell'intelligenza artificiale per l'analisi dei CV. La nota evidenzia la rilevanza per la compliance in ambito HR, richiamando la necessità di trasparenza, valutazione d'impatto (DPIA), mitigazione dei bias algoritmici e garanzia di un effettivo intervento umano nei processi decisionali automatizzati.",
           "title": "La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
           "ts": 1790179197,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums"
         },
         "aepd:0c02844d-e7ff-4b47-b513-171d11e847a3": {
           "ai_ok": true,
-          "category": "Comunicazione / News",
+          "category": "Linee guida",
           "date": "Mon, 22 Jun 2026 10:03:30 +0200",
           "first_seen": "2026-09-10",
           "hash": "8155d21676dee971",
@@ -62,7 +62,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate per il trattamento dei neurodati in ambito non sanitario. La misura rileva ai fini della compliance GDPR poiché definisce orientamenti sulle tutele e sui requisiti di sicurezza necessari per la gestione di dati neurali ad alto rischio al di fuori del contesto medico.",
+          "summary": "La Rete Iberoamericana di Protezione dei Dati (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate necessarie per il trattamento dei neurodati in ambito non sanitario. L'iniziativa rileva per la compliance poiché fornisce criteri direttivi e misure di sicurezza rafforzate per la gestione di dati ad alto rischio ed emergenti al di fuori del contesto clinico-sanitario.",
           "title": "La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "ts": 1782115410,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos"
@@ -78,7 +78,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD e la CNMC hanno annunciato il rafforzamento della loro collaborazione per tutelare i diritti delle persone nell'ambiente digitale. Per i consulenti e auditor di compliance, l'intesa evidenzia la crescente convergenza tra la regolamentazione dei mercati digitali e la tutela dei dati personali, preannunciando una vigilanza più integrata e coordinata nell'ecosistema digitale.",
+          "summary": "L'AEPD e la CNMC (Autorità per i mercati e la concorrenza) hanno rafforzato la collaborazione istituzionale per tutelare i diritti delle persone nell'ambiente digitale. L'intesa stabilisce un coordinamento rafforzato tra le autorità, rilevante per la compliance integrata tra protezione dei dati personali, servizi digitali e regolamentazione dei mercati.",
           "title": "La AEPD y la CNMC refuerzan su colaboración para proteger los derechos de las personas en el entorno digital",
           "ts": 1781092579,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-cnmc-refuerzan-su-colaboracion-para-proteger-derechos-personas"
@@ -94,7 +94,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa rileva per la compliance in quanto promuove la ricerca applicata e lo sviluppo di soluzioni Privacy by Design nelle tecnologie emergenti, offrendo un punto di contatto e collaborazione istituzionale tra mondo della ricerca e autorità di controllo.",
+          "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa rileva ai fini della compliance per il monitoraggio dell'evoluzione della privacy by design e dell'impatto delle nuove tecnologie, favorendo il raccordo tra la ricerca scientifica e l'applicazione pratica del GDPR.",
           "title": "La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1784793600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion"
@@ -110,7 +110,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato l'avvio di una nuova fase istituzionale focalizzata sul servizio al cittadino. La comunicazione ha carattere informativo e segnala un riorientamento strategico dell'Autorità di controllo, senza tuttavia introdurre immediati nuovi obblighi o adempimenti operativi di compliance GDPR per titolari e responsabili del trattamento.",
+          "summary": "L'AEPD ha annunciato l'inizio di una nuova fase istituzionale al servizio della cittadinanza. Trattandosi di un comunicato di carattere generale dell'Autorità di controllo spagnola, non si rilevano modifiche normative dirette né nuovi obblighi operativi immediati di compliance per i titolari del trattamento.",
           "title": "La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "ts": 1782288000,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-espanola-de-proteccion-de-datos-inicia-nueva-etapa"
@@ -126,23 +126,23 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha pubblicato orientamenti pratici sull'uso di videocamere di sorveglianza nelle abitazioni di persone anziane. Le indicazioni mirano a bilanciare le esigenze di cura e tutela della salute con il diritto alla privacy dell'interessato e del personale assistenziale, fornendo criteri chiave per la conformità al GDPR nell'ambito della videosorveglianza privata e domestica.",
+          "summary": "L'AEPD ha pubblicato orientamenti sull'uso di videocamere nelle abitazioni di persone anziane per conciliare le esigenze di cura con la tutela della privacy. Il documento fornisce indicazioni utili per valutare la liceità, la proporzionalità e la corretta impostazione dei trattamenti di videosorveglianza in ambito domestico e assistenziale ai fini della compliance GDPR.",
           "title": "La AEPD publica unas orientaciones sobre el uso de videocámaras en el hogar  de personas mayores para compatibilizar cuidados y privacidad",
           "ts": 1780902900,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-unas-orientaciones-sobre-uso-videocamaras-hogar"
         },
         "aepd:35d8717b-1c45-4fc8-a2cb-9387de7e04c9": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Tue, 06 Oct 2026 10:00:00 +0200",
           "first_seen": "2026-10-07",
           "hash": "4b543371dc7a3701",
           "last_change": "2026-10-07",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha indicato le garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. L'intervento è di primaria rilevanza per la compliance GDPR, imponendo l'adozione di misure di sicurezza adeguate, la valutazione dell'impatto (DPIA) e il rispetto dei principi di trasparenza e minimizzazione nei trattamenti ad…",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
           "title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
           "ts": 1791273600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia"
@@ -158,7 +158,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "title": "La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "ts": 1784618385,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia"
@@ -174,7 +174,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD, galardonada con el ‘Premio de Auditoría de Sistemas de Información’ en los Premios ISACA Valencia",
           "title": "La AEPD, galardonada con el ‘Premio de Auditoría de Sistemas de Información’ en los Premios ISACA Valencia",
           "ts": 1780995323,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-galardonada-con-premio-auditoria-sistemas-premios-isaca-valencia"
@@ -320,6 +320,22 @@
           "title": "Lorenzo Cotino: “La gobernanza de la IA exige la implicación de todas las instituciones y un compromiso especial de las empresas”",
           "ts": 1784107800,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/lorenzo-cotino-la-gobernanza-de-la-ia-exige-implicacion-todas-institucionesde"
+        },
+        "aepd:9ef2e1f9-1fcd-4900-9763-e01f81c08b20": {
+          "ai_ok": true,
+          "category": "Comunicazione / News",
+          "date": "Thu, 08 Oct 2026 10:36:45 +0200",
+          "first_seen": "2026-10-10",
+          "hash": "6f99f29954397da5",
+          "last_change": "2026-10-10",
+          "relevance": "low",
+          "source_id": "aepd",
+          "source_label": "AEPD (Spagna)",
+          "status": "new",
+          "summary": "L'AEPD ha pubblicato il secondo numero della rivista 'Privacidad, Innovación y Tecnología', dedicata al decennale del GDPR. Il monografico tratta responsabilità proattiva, diritto alla spiegazione nelle decisioni automatizzate e privacy by design nell'IA generativa per la PA, unitamente a studi su neurodati, anonimizzazione, brecce di dati e identità sintetica.",
+          "title": "La AEPD publica el segundo número de la revista científica ‘Privacidad, Innovación y Tecnología’",
+          "ts": 1791448605,
+          "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-segundo-numero-revista-cientifica-privacidad-innovacion-tecnologia"
         },
         "aepd:a14db30c-6a4f-41ad-b0f7-b909b0a69d4f": {
           "category": "Altro",
@@ -520,6 +536,38 @@
           "ts": 1782907200,
           "url": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en"
         },
+        "edpb:3035c441-55a8-4253-b236-6a7f39456d9d": {
+          "ai_ok": false,
+          "category": "Altro",
+          "date": "Fri, 09 Oct 2026 12:00:00 +0000",
+          "first_seen": "2026-10-10",
+          "hash": "a3fc2b60569eea20",
+          "last_change": "2026-10-10",
+          "relevance": "medium",
+          "source_id": "edpb",
+          "source_label": "EDPB (UE)",
+          "status": "new",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+          "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+          "ts": 1791547200,
+          "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en"
+        },
+        "edpb:3ec2752a-f406-40b0-8fa7-df8e216c9966": {
+          "ai_ok": true,
+          "category": "Provvedimento sanzionatorio",
+          "date": "Fri, 09 Oct 2026 12:00:00 +0000",
+          "first_seen": "2026-10-10",
+          "hash": "12ea3335a75893f7",
+          "last_change": "2026-10-10",
+          "relevance": "high",
+          "source_id": "edpb",
+          "source_label": "EDPB (UE)",
+          "status": "new",
+          "summary": "Il Garante Privacy italiano ha sanzionato Emirates per 180.000 euro e ingiunto un ordine di conformità per violazione degli artt. 5, 12 e 13 GDPR. La contestazione riguarda il trattamento di dati relativi alla salute dei passeggeri tramite il modulo MEDIF e l'inadeguatezza dell'informativa fornita. Il provvedimento evidenzia i rischi di compliance nell'acquisizione di dati particolari e trasparen…",
+          "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
+          "ts": 1791547200,
+          "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en"
+        },
         "edpb:3f48a5c6-0100-40f0-bda1-b4b30456d2af": {
           "category": "Altro",
           "date": "Wed, 24 Jun 2026 12:00:00 +0000",
@@ -536,7 +584,6 @@
           "url": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en"
         },
         "edpb:5939403e-a8cf-463f-a1e7-22617abf75a9": {
-          "ai_ok": true,
           "category": "Provvedimento sanzionatorio",
           "date": "Thu, 08 Oct 2026 12:00:00 +0000",
           "first_seen": "2026-10-09",
@@ -545,26 +592,43 @@
           "relevance": "high",
           "source_id": "edpb",
           "source_label": "EDPB (UE)",
-          "status": "new",
+          "status": "seen",
           "summary": "L'Autorità garante greca ha emesso sanzione e ordine di conformità a seguito di un data breach su vasta scala riguardante dati identificativi, finanziari e sanitari. Sebbene il Titolare (Ministero) abbia adempiuto agli artt. 33 e 34 GDPR, la violazione è imputabile al Responsabile del trattamento (E.E.T.A.A.) per l'uso di sistemi obsoleti e inadeguate misure di sicurezza (artt. 25 e 32 GDPR).",
           "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
           "ts": 1791460800,
           "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en"
         },
-        "edpb:688d1f26-1e12-479b-b01c-1dfe4a9559f0": {
-          "category": "Altro",
-          "date": "Tue, 22 Sep 2026 12:00:00 +0000",
-          "first_seen": "2026-09-23",
-          "hash": "e0d78977f4b816ff",
-          "last_change": "2026-10-06",
-          "relevance": "medium",
+        "edpb:5dfe9804-f6e9-4c2b-b2a7-f4b145d23d03": {
+          "ai_ok": true,
+          "category": "Provvedimento sanzionatorio",
+          "date": "Fri, 09 Oct 2026 12:00:00 +0000",
+          "first_seen": "2026-10-10",
+          "hash": "f6f3dea91126bcc6",
+          "last_change": "2026-10-10",
+          "relevance": "high",
           "source_id": "edpb",
           "source_label": "EDPB (UE)",
-          "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable tele",
-          "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+          "status": "new",
+          "summary": "Il Garante italiano ha sanzionato La Patria S.p.A. per 39.000 € per violazioni degli artt. 12, 13 e 15 GDPR. L'azienda non ha risposto alle istanze di un ex dipendente relative a dati GPS e procedimenti disciplinari. L'Autorità ha chiarito che l'esercizio del diritto di accesso non richiede la menzione esplicita del GDPR, sottolineando l'obbligo di gestire tempestivamente le richieste degli inter…",
+          "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
+          "ts": 1791547200,
+          "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en"
+        },
+        "edpb:688d1f26-1e12-479b-b01c-1dfe4a9559f0": {
+          "ai_ok": true,
+          "category": "Provvedimento sanzionatorio",
+          "date": "Tue, 22 Sep 2026 12:00:00 +0000",
+          "first_seen": "2026-09-23",
+          "hash": "3c71e4264c07f7f8",
+          "last_change": "2026-10-10",
+          "relevance": "high",
+          "source_id": "edpb",
+          "source_label": "EDPB (UE)",
+          "status": "changed",
+          "summary": "L'AEPD ha inflitto una sanzione di 100.000 € a Securitas Direct per violazione dell'Art. 12 GDPR. L'informativa sulla videosorveglianza rinviava a un numero telefonico a pagamento per l'esercizio dei diritti di accesso e opposizione. La presenza di canali gratuiti sul sito non sana l'illecito, poiché l'indicazione di un canale oneroso ostacola il gratuito e agevole esercizio dei diritti.",
+          "title": "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
           "ts": 1790078400,
-          "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en"
+          "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en"
         },
         "edpb:68f7c665-2a1c-412e-a75f-bdbc3d217920": {
           "category": "Altro",
@@ -626,6 +690,22 @@
           "ts": 1788955200,
           "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en"
         },
+        "edpb:a8ffc0a8-feab-474c-9193-7c4d4a52287e": {
+          "ai_ok": true,
+          "category": "Provvedimento sanzionatorio",
+          "date": "Fri, 09 Oct 2026 12:00:00 +0000",
+          "first_seen": "2026-10-10",
+          "hash": "32219f5f00dc2078",
+          "last_change": "2026-10-10",
+          "relevance": "high",
+          "source_id": "edpb",
+          "source_label": "EDPB (UE)",
+          "status": "new",
+          "summary": "L'Autorità Garante italiana ha sanzionato BBVA per 5.508.000 euro per la mancata e tempestiva gestione dell'opposizione al marketing diretto. A causa di un errore tecnico di sincronizzazione tra i sistemi interni e il CRM, l'invio di notifiche è proseguito per 7 mesi. L'evento evidenzia l'impatto di fallimenti tecnici nell'esercizio dei diritti (art. 21 GDPR) e sulla responsabilizzazione.",
+          "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
+          "ts": 1791547200,
+          "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en"
+        },
         "edpb:a9150158-322f-4b05-9a06-258875efe00a": {
           "category": "Altro",
           "date": "Thu, 30 Jul 2026 12:00:00 +0000",
@@ -642,7 +722,6 @@
           "url": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en"
         },
         "edpb:b7ce37b6-62ea-41f8-a4e6-5d7fb6620d40": {
-          "ai_ok": true,
           "category": "Provvedimento sanzionatorio",
           "date": "Thu, 08 Oct 2026 12:00:00 +0000",
           "first_seen": "2026-10-09",
@@ -651,14 +730,13 @@
           "relevance": "high",
           "source_id": "edpb",
           "source_label": "EDPB (UE)",
-          "status": "new",
+          "status": "seen",
           "summary": "L'Autorità olandese (AP) ha sanzionato Uber per 824,99M€ per violazione degli artt. 22 e 13 del GDPR. La società ha applicato processi decisionali interamente automatizzati per disattivare gli account dei driver (per presunte frodi o valutazioni basse) con perdita di reddito, senza adeguato intervento umano né corretta informativa sul profiling. Il caso rileva per i rischi di compliance sui siste…",
           "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
           "ts": 1791460800,
           "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en"
         },
         "edpb:c3539b51-1075-4bab-ba0f-c9332897135c": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Thu, 08 Oct 2026 12:00:00 +0000",
           "first_seen": "2026-10-09",
@@ -667,7 +745,7 @@
           "relevance": "medium",
           "source_id": "edpb",
           "source_label": "EDPB (UE)",
-          "status": "new",
+          "status": "seen",
           "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
           "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
           "ts": 1791460800,
@@ -1102,7 +1180,6 @@
           "url": "https://www.gpdp.it/garante/doc.jsp?ID=10300466"
         },
         "garante_newsletter:https://www.gpdp.it/garante/doc.jsp?ID=10305399": {
-          "ai_ok": true,
           "category": "Newsletter",
           "date": "Thu, 08 Oct 2026 00:00:00 GMT",
           "first_seen": "2026-10-09",
@@ -1111,7 +1188,7 @@
           "relevance": "high",
           "source_id": "garante_newsletter",
           "source_label": "Garante Privacy — Newsletter (Italia)",
-          "status": "new",
+          "status": "seen",
           "summary": "La Newsletter n. 553 del Garante Privacy riporta sanzioni alla Fondazione Rome Technopole (pubblicazione di graduatorie online) e al Comune di Arvier (videosorveglianza di aree private), oltre all'entrata in vigore delle Linee guida sui tracking pixel nell'email marketing. Gli argomenti impattano la compliance in tema di trasparenza, videosorveglianza e tracciamento utente.",
           "title": "NEWSLETTER dell'8 ottobre 2026",
           "ts": 1791417600,
