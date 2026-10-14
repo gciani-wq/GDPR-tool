@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-10-13T13:58:52Z",
+  "generated_utc": "2026-10-14T11:35:40Z",
   "stats": {
-    "total_items": 78,
-    "changes_7d": 17,
-    "changes_30d": 22,
+    "total_items": 79,
+    "changes_7d": 15,
+    "changes_30d": 23,
     "sources_count": 4,
     "by_source": {
       "AEPD (Spagna)": 31,
       "Garante Privacy — Comunicati stampa (Italia)": 12,
       "Garante Privacy — Newsletter (Italia)": 13,
-      "EDPB (UE)": 22
+      "EDPB (UE)": 23
     },
     "by_relevance": {
       "high": 9,
-      "medium": 50,
-      "low": 19
+      "medium": 52,
+      "low": 18
     }
   },
   "timeline": [
@@ -187,9 +187,29 @@
       "date": "2026-10-13",
       "new": 0,
       "changed": 0
+    },
+    {
+      "date": "2026-10-14",
+      "new": 1,
+      "changed": 0
     }
   ],
   "items": [
+    {
+      "id": "edpb:8c271fe5-d64b-4e69-afeb-0070486ce805",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
+      "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] EDPB publishes statement on the data protection challenges of smart glasses",
+      "first_seen": "2026-10-14",
+      "last_change": "2026-10-14",
+      "ts": 1791892800
+    },
     {
       "id": "edpb:a72886ec-83cc-4124-9c82-62bb77be7a8a",
       "source_id": "edpb",
@@ -365,7 +385,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-10-07",
       "last_change": "2026-10-07",
       "ts": 1791273600
@@ -740,7 +760,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -1113,9 +1133,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-celebra-primera-reunion-red-grupos-investigacion-sobre-privacidad-y-tecnologias-emergentes",
       "date": "Fri, 12 Jun 2026 08:21:54 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'AEPD ha tenuto la prima riunione della Rete dei gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a rafforzare la collaborazione tra l'Autorità e la comunità scientifica per affrontare le sfide della protezione dati legate all'innovazione tecnologica, fornendo elementi utili per anticipare futuri orientamenti applicativi sulle tecnologie emergenti.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781245314
