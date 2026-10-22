@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-21T11:34:01Z",
+  "generated_utc": "2026-10-22T11:34:00Z",
   "stats": {
     "total_items": 86,
-    "changes_7d": 8,
+    "changes_7d": 7,
     "changes_30d": 28,
     "sources_count": 4,
     "by_source": {
@@ -13,8 +13,8 @@
     },
     "by_relevance": {
       "high": 11,
-      "medium": 54,
-      "low": 21
+      "medium": 50,
+      "low": 25
     }
   },
   "timeline": [
@@ -227,6 +227,11 @@
       "date": "2026-10-21",
       "new": 1,
       "changed": 0
+    },
+    {
+      "date": "2026-10-22",
+      "new": 0,
+      "changed": 1
     }
   ],
   "items": [
@@ -234,15 +239,15 @@
       "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10309361",
       "source_id": "garante_comunicati",
       "source_label": "Garante Privacy — Comunicati stampa (Italia)",
-      "title": "COMUNICATO STAMPA - Telemarketing, nei primi sette mesi del 2026 più di 37 mila segnalazioni di chiamate indesiderate, oltre 170 al giorno",
+      "title": "Telemarketing, nei primi 7mesi del 2026 più di 37 mila segnalazioni di chiamate indesiderate",
       "url": "https://www.gpdp.it/garante/doc.jsp?ID=10309361",
       "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "status": "new",
-      "category": "Altro",
+      "status": "changed",
+      "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] COMUNICATO STAMPA - Telemarketing, nei primi sette mesi del 2026 più di 37 mila segnalazioni di chiamate indesiderate, oltre 170 al giorno",
+      "summary": "Il Garante ha reso noti i dati sulle segnalazioni per telemarketing indesiderato nei primi 7 mesi del 2026, superando quota 37.000 (oltre 170 al giorno). Il Presidente Stanzione ha richiamato l'esigenza di una maggiore tutela per i consumatori. La notizia rileva per la compliance evidenziando il costante controllo dell'Autorità sulla liceità dei trattamenti e sulla tracciabilità dei consensi.",
       "first_seen": "2026-10-21",
-      "last_change": "2026-10-21",
+      "last_change": "2026-10-22",
       "ts": 1792454400
     },
     {
@@ -253,9 +258,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de",
       "date": "Tue, 20 Oct 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
+      "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha reso noto di aver ricevuto oltre 3.000 notifiche di violazione dei dati personali nel primo semestre dell'anno. Il dato evidenzia la centralità del rispetto degli obblighi di notifica ex art. 33 GDPR e la necessità per i titolari del trattamento di mantenere procedure efficaci di gestione e registrazione dei data breach.",
       "first_seen": "2026-10-20",
       "last_change": "2026-10-20",
       "ts": 1792483200
@@ -315,7 +320,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha aperto la call for papers per il terzo numero della 'Revista PIT', incentrato sull'interazione tra il RGPD e altre normative. Sebbene si tratti di una notizia editoriale senza un impatto prescrittivo diretto, i contributi raccolti offriranno analisi utili sull'applicazione del RGPD in relazione ad altri quadri regolatori settoriali.",
+      "summary": "L'AEPD ha aperto la call for papers per il terzo numero della Revista PIT (Privacidad e Innovación Tecnológica), incentrato sull'interazione del RGPD con altri quadri normativi. L'iniziativa ha rilievo scientifico e dottrinale per analizzare l'orientamento dell'Autorità sulle intersezioni normative, pur non introducendo immediati obblighi operativi di compliance per le organizzazioni.",
       "first_seen": "2026-10-15",
       "last_change": "2026-10-15",
       "ts": 1792051200
@@ -525,7 +530,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "high",
-      "summary": "L'AEPD ha individuato le garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. L'indicazione è rilevante ai fini della compliance GDPR, in quanto l'uso dell'IA nel monitoraggio video comporta un elevato rischio per i diritti degli interessati, imponendo un'attenta valutazione d'impatto (DPIA) e il rispetto dei principi di privacy by design.",
+      "summary": "L'AEPD ha delineato le garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. L'intervento richiama l'esigenza di conformare le soluzioni analitiche ai principi del GDPR, ponendo particolare attenzione alla valutazione d'impatto (DPIA), alla trasparenza e alla mitigazione dei rischi per i diritti e le libertà fondamentali degli interessati.",
       "first_seen": "2026-10-07",
       "last_change": "2026-10-07",
       "ts": 1791273600
@@ -629,8 +634,8 @@
       "date": "Wed, 23 Sep 2026 17:59:57 +0200",
       "status": "seen",
       "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha pubblicato una comunicazione per ricordare le garanzie necessarie nell'uso dell'intelligenza artificiale per l'analisi dei curricula. L'intervento rileva per la compliance GDPR in materia di trasparenza, correttezza, minimizzazione e gestione dei rischi legati a processi decisionali automatizzati (art. 22 GDPR) e profilazione dei candidati nell'ambito delle risorse umane.",
+      "relevance": "medium",
+      "summary": "L'AEPD ha pubblicato una nota informativa per ricordare le garanzie necessarie nell'uso dell'IA per l'analisi dei curricula. L'uso dell'IA nella selezione comporta rischi privacy rilevanti (art. 22 GDPR su decisioni automatizzate e obbligo di DPIA). I titolari devono garantire trasparenza, non discriminazione e l'intervento umano, aspetti chiave da verificare in sede di audit.",
       "first_seen": "2026-09-26",
       "last_change": "2026-09-26",
       "ts": 1790179197
@@ -733,9 +738,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-estrena-las-claves-de-un-nuevo-formato-de-dialogo-con-especialistas",
       "date": "Tue, 08 Sep 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'AEPD ha lanciato 'Las claves de...', un nuovo format di dialogo con esperti incentrato sulla protezione dei dati e sulle tecnologie emergenti. Pur avendo natura prevalentemente divulgativa, l'iniziativa rileva per la compliance in quanto offre elementi utili a comprendere l'orientamento dell'Autorità sulle principali sfide tecnologiche e sull'applicazione del GDPR.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788854400
@@ -900,7 +905,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha annunciato la riapertura delle iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a promuovere la cooperazione scientifica e lo studio dell'impatto delle nuove tecnologie sulla protezione dei dati. Per la compliance, la rete costituisce un riferimento istituzionale per analizzare i rischi e i trend di privacy-by-design.",
+      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa favorisce lo studio delle sfide regolatorie connesse all'innovazione tecnologica, offrendo spunti di interesse per la valutazione dell'impatto sui dati personali e per lo sviluppo di soluzioni privacy-compliant.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -913,9 +918,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia",
       "date": "Tue, 21 Jul 2026 09:19:45 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "category": "Comunicazione / News",
+      "relevance": "high",
+      "summary": "L'AEPD ha pubblicato un'analisi incentrata sull'applicazione dei principi di qualità, esattezza e minimizzazione dei dati personali nei trattamenti effettuati tramite sistemi di intelligenza artificiale. L'iniziativa evidenzia l'importanza dell'allineamento dei modelli di IA ai requisiti del GDPR, fornendo indicazioni rilevanti per la gestione dei rischi di compliance ed esattezza dei dati.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784618385
@@ -943,9 +948,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-aesia-abordan-coordinacion-institucional",
       "date": "Mon, 20 Jul 2026 10:45:58 +0200",
       "status": "seen",
-      "category": "Altro",
+      "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "summary": "L'AEPD e l'AESIA (Agenzia spagnola per la supervisione dell'IA) hanno avviato un coordinamento istituzionale in materia di protezione dei dati e intelligenza artificiale. L'evento evidenzia la crescente convergenza tra la regolamentazione dell'IA e la compliance al GDPR, prefigurando una sinergia tra le autorità per la governance dei trattamenti mediante tecnologie emergenti.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784537158
@@ -1183,9 +1188,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-espanola-de-proteccion-de-datos-inicia-nueva-etapa",
       "date": "Wed, 24 Jun 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'Agenzia Spagnola per la Protezione dei Dati (AEPD) ha pubblicato una comunicazione che annuncia l'avvio di una nuova fase istituzionale focalizzata sul servizio ai cittadini. Trattandosi di un annuncio generale, l'impatto diretto sulle procedure di compliance GDPR è contenuto, ma la novità segnala un possibile aggiornamento nelle priorità strategiche dell'Autorità di controllo.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782288000
@@ -1200,7 +1205,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento relativo alle garanzie rafforzate per il trattamento dei neurodati in ambito non sanitario. Il documento è rilevante per la compliance poiché fornisce orientamenti per la tutela di categorie di dati emergenti ad alto rischio al di fuori del settore medico.",
+      "summary": "La Rete Iberoamericana per la Protezione dei Dati (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate necessarie per il trattamento dei neurodati in ambito non sanitario. L'iniziativa rileva ai fini della compliance per l'individuazione di orientamenti e misure di tutela specifiche nell'utilizzo di dati neurali al di fuori del contesto medico.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782115410
@@ -1273,9 +1278,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-celebra-primera-reunion-red-grupos-investigacion-sobre-privacidad-y-tecnologias-emergentes",
       "date": "Fri, 12 Jun 2026 08:21:54 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'AEPD ha tenuto la prima riunione della Rete dei gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a promuovere la collaborazione tra l'Autorità e il mondo scientifico per analizzare l'impatto delle nuove tecnologie sulla protezione dei dati personali e anticipare le sfide di conformità.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781245314
@@ -1290,7 +1295,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "L'AEPD e la CNMC hanno rafforzato la cooperazione istituzionale per la tutela dei diritti delle persone nell'ambiente digitale. L'intesa rileva in ottica di compliance in quanto favorisce l'allineamento tra la disciplina sulla protezione dei dati e la regolamentazione dei mercati digitali, aumentando le sinergie nei controlli di vigilanza.",
+      "summary": "L'AEPD e la CNMC hanno rafforzato la propria collaborazione istituzionale per tutelare i diritti delle persone nell'ambiente digitale. L'accordo punta a migliorare il coordinamento tra l'autorità di protezione dati e l'autorità di vigilanza sui mercati e sulla concorrenza, riflettendo la crescente intersezione tra conformità GDPR e regolamentazione dei servizi e mercati digitali.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781092579
@@ -1303,9 +1308,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-galardonada-con-premio-auditoria-sistemas-premios-isaca-valencia",
       "date": "Tue, 09 Jun 2026 10:55:23 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'AEPD è stata insignita del 'Premio de Auditoría de Sistemas de Información' ai Premi ISACA Valencia. Trattandosi di un riconoscimento istituzionale conferito all'autorità di controllo, la notizia non introduce nuovi obblighi né modifiche operative ai processi di compliance o alle attività di audit GDPR a carico di titolari e responsabili del trattamento.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780995323
