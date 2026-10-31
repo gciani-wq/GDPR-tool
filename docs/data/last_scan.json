@@ -1,20 +1,20 @@
 {
-  "last_run_utc": "2026-10-30T12:36:12Z",
+  "last_run_utc": "2026-10-31T12:02:13Z",
   "sources": {
     "aepd": {
       "items": {
         "aepd:08add936-6a18-46bd-a362-01ee77e16b90": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Fri, 12 Jun 2026 08:21:54 +0200",
           "first_seen": "2026-09-10",
           "hash": "c1f580da3bccb486",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha tenuto la prima riunione della Rete di gruppi di ricerca su privacy e tecnologie emergenti. L'iniziativa mira a rafforzare la collaborazione tra l'Autorità e il mondo scientifico per analizzare le sfide regolatorie poste dalle tecnologie emergenti e promuovere soluzioni pratiche di compliance e privacy by design. Rileva per monitorare gli orientamenti futuri sulle nuove tecnologie.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
           "title": "La AEPD celebra la primera reunión de la Red de grupos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1781245314,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-celebra-primera-reunion-red-grupos-investigacion-sobre-privacidad-y-tecnologias-emergentes"
@@ -36,8 +36,8 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-abre-convocatoria-articulos-segundo-numero-revista-pit"
         },
         "aepd:09d6d109-af48-4abd-9189-172fe39e8721": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 23 Sep 2026 17:59:57 +0200",
           "first_seen": "2026-09-26",
           "hash": "43f401f244e81dbe",
@@ -46,23 +46,23 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha richiamato l'attenzione sulle garanzie e sui requisiti di conformità GDPR da rispettare quando si utilizzano strumenti di intelligenza artificiale per l'analisi e la selezione dei curricula. La nota sottolinea la necessità di tutelare i diritti dei candidati durante l'impiego di algoritmi nei processi di reclutamento.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
           "title": "La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
           "ts": 1790179197,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums"
         },
         "aepd:0c02844d-e7ff-4b47-b513-171d11e847a3": {
-          "ai_ok": true,
-          "category": "Linee guida",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Mon, 22 Jun 2026 10:03:30 +0200",
           "first_seen": "2026-09-10",
           "hash": "8155d21676dee971",
           "last_change": "2026-09-10",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate per il trattamento dei neurodati in ambito non sanitario. La misura rileva per la compliance in quanto definisce criteri di tutela essenziali e mitigazione dei rischi per le organizzazioni che impiegano neurotecnologie a fini commerciali, lavorativi o di ricerca.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "title": "La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "ts": 1782115410,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos"
@@ -84,49 +84,49 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-cnmc-refuerzan-su-colaboracion-para-proteger-derechos-personas"
         },
         "aepd:181cb7fe-64d1-48d0-a9f0-151b75452dfa": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 23 Jul 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "c00af3f1f8266212",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca sulla privacy e sulle tecnologie emergenti. L'iniziativa rileva per la compliance poiché favorisce le sinergie tra mondo della ricerca e autorità di controllo nello sviluppo e nella valutazione di soluzioni tecnologiche orientate ai principi di privacy by design e privacy by default.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "title": "La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1784793600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion"
         },
         "aepd:1eebcdfb-3173-4ecb-bb35-d01c2bb7d975": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 15 Oct 2026 10:00:00 +0200",
           "first_seen": "2026-10-15",
           "hash": "e085e879dd7e7c7d",
           "last_change": "2026-10-15",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha aperto la call for papers per il terzo numero della rivista \"PIT\" (Privacidad e Innovación Tecnológica), incentrato sull'interazione tra il RGPD e altri quadri normativi. Trattandosi di un invito alla sottomissione di articoli dottrinali, l'iniziativa ha carattere prevalentemente divulgativo e scientifico, fornendo spunti interpretativi ma senza generare obblighi diretti di compliance.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Abierta la convocatoria de artículos para el tercer número de la Revista PIT, que abordará la interacción del RGPD con otras normas",
           "title": "Abierta la convocatoria de artículos para el tercer número de la Revista PIT, que abordará la interacción del RGPD con otras normas",
           "ts": 1792051200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/abierta-la-convocatoria-de-articulos-para-tercer-numero-revsita-pit"
         },
         "aepd:2722182b-0bd8-402f-9e60-cfcf63284ba0": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 24 Jun 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "eab3bf120e598dad",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Agenzia spagnola per la protezione dei dati (AEPD) ha annunciato l'avvio di una nuova fase istituzionale al servizio dei cittadini. Trattandosi di una comunicazione generale, l'impatto operativo diretto sulle procedure di compliance è limitato, ma rileva per il monitoraggio delle possibili future priorità strategiche e orientamenti dell'Autorità di controllo.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "title": "La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "ts": 1782288000,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-espanola-de-proteccion-de-datos-inicia-nueva-etapa"
@@ -148,33 +148,33 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-unas-orientaciones-sobre-uso-videocamaras-hogar"
         },
         "aepd:35d8717b-1c45-4fc8-a2cb-9387de7e04c9": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Tue, 06 Oct 2026 10:00:00 +0200",
           "first_seen": "2026-10-07",
           "hash": "4b543371dc7a3701",
           "last_change": "2026-10-07",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha pubblicato indicazioni sulle garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. La misura rileva per la compliance GDPR in quanto definisce i requisiti di protezione dei dati, la gestione dei rischi e le garanzie tecniche e organizzative richieste per l'implementazione conforme di strumenti di analisi automatizzata e biometrica.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
           "ts": 1791273600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia"
         },
         "aepd:3a8f8ef4-6063-4667-97af-6ff43317c887": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Tue, 21 Jul 2026 09:19:45 +0200",
           "first_seen": "2026-09-10",
           "hash": "9c7b3380adbde62c",
           "last_change": "2026-09-10",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha pubblicato un'analisi incentrata sull'applicazione dei principi di qualità, esattezza e minimizzazione dei dati personali nei trattamenti effettuati tramite sistemi di intelligenza artificiale. L'iniziativa fornisce indicazioni fondamentali per valutare la conformità GDPR dei modelli IA, riducendo i rischi di trattamento di dati inesatti o eccedenti.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "title": "La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "ts": 1784618385,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia"
@@ -196,8 +196,8 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-galardonada-con-premio-auditoria-sistemas-premios-isaca-valencia"
         },
         "aepd:49a36ed9-51f1-4d84-b83d-0f59b9c5d978": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Mon, 20 Jul 2026 10:45:58 +0200",
           "first_seen": "2026-09-10",
           "hash": "afa92ed57d547da7",
@@ -206,30 +206,30 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD e la AESIA (Agenzia Spagnola di Supervisione dell'IA) hanno avviato un coordinamento istituzionale per definire la collaborazione tra tutela dei dati personali e regolamentazione dell'intelligenza artificiale. L'iniziativa rileva ai fini della compliance per le intersezioni normative e operative tra l'applicazione del GDPR e la governance dei sistemi di IA.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD y la AESIA abordan la coordinación institucional en materia de protección de datos e inteligencia artificial",
           "ts": 1784537158,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-aesia-abordan-coordinacion-institucional"
         },
         "aepd:53407f28-79d5-43ba-976f-e03e3a18f49e": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Tue, 08 Sep 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "948ee6a45edd6d0c",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha lanciato 'Las claves de...', un nuovo format di dialogo con esperti incentrato su privacy e tecnologie emergenti. L'iniziativa, a carattere informativo e divulgativo, permette ai professionisti della compliance di anticipare i temi di interesse e i possibili orientamenti dell'Autorità rispetto alle sfide delle nuove tecnologie.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD estrena ‘Las claves de…’, un nuevo formato de diálogo con especialistas sobre privacidad y tecnologías emergentes",
           "ts": 1788854400,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-estrena-las-claves-de-un-nuevo-formato-de-dialogo-con-especialistas"
         },
         "aepd:5411ddc4-fbd5-4189-8f73-3ec782020b14": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Tue, 20 Oct 2026 10:00:00 +0200",
           "first_seen": "2026-10-20",
           "hash": "7aa50fc023bfe80e",
@@ -238,7 +238,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha comunicato di aver ricevuto oltre 3.000 notifiche di violazione dei dati personali (data breach) nel primo semestre dell'anno. Il dato evidenzia l'importanza per titolari e responsabili di mantenere efficaci le procedure interne di incident management e il tempestivo adempimento degli obblighi di notifica all'Autorità di controllo ai sensi dell'art. 33 del GDPR.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
           "ts": 1792483200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de"
@@ -260,17 +260,17 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-mas-de-1500-informes-juridicos"
         },
         "aepd:54a537d0-c870-47e4-8e59-80024fef4319": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 02 Sep 2026 09:30:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "fd07abe3184cc5c0",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha annunciato la propria partecipazione alle XX Giornate STIC con una sessione interamente dedicata alla protezione dei dati personali. L'evento ha natura informativo-divulgativa e non introduce nuovi obblighi normativi o linee guida vincolanti, presentando un impatto diretto limitato sugli adempimenti operativi di compliance GDPR.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD participará en las XX Jornadas STIC con una jornada dedicada a la protección de datos",
           "ts": 1788334200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-participara-xx-jornadas-stic"
@@ -350,7 +350,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana actualiza el marco común de privacidad con especial atención a los neurodatos, la IA y las decisiones automatizadas",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La Red Iberoamericana actualiza el marco común de privacidad con especial atención a los neurodatos, la IA y las decisiones automatizadas",
           "ts": 1781508600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/red-iberoamericana-actualiza-marco-comun-privacidad"
@@ -366,29 +366,44 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Lorenzo Cotino: “La gobernanza de la IA exige la implicación de todas las instituciones y un compromiso especial de las empresas”",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "Lorenzo Cotino: “La gobernanza de la IA exige la implicación de todas las instituciones y un compromiso especial de las empresas”",
           "ts": 1784107800,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/lorenzo-cotino-la-gobernanza-de-la-ia-exige-implicacion-todas-institucionesde"
         },
         "aepd:9ef2e1f9-1fcd-4900-9763-e01f81c08b20": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 08 Oct 2026 10:36:45 +0200",
           "first_seen": "2026-10-10",
           "hash": "6f99f29954397da5",
           "last_change": "2026-10-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha pubblicato il secondo numero della rivista scientifica 'Privacidad, Innovación y Tecnología'. La pubblicazione raccoglie studi e approfondimenti sulle sfide legate all'impatto delle nuove tecnologie sulla protezione dei dati. Pur non costituendo un atto vincolante, la risorsa fornisce utili elementi di orientamento dottrinale per comprendere l'evoluzione della compliance in ambito tecno…",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
           "title": "La AEPD publica el segundo número de la revista científica ‘Privacidad, Innovación y Tecnología’",
           "ts": 1791448605,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-segundo-numero-revista-cientifica-privacidad-innovacion-tecnologia"
         },
-        "aepd:a14db30c-6a4f-41ad-b0f7-b909b0a69d4f": {
+        "aepd:a031fa81-6957-4860-a0cc-e24db11ffa38": {
           "ai_ok": true,
+          "category": "Comunicazione / News",
+          "date": "Thu, 22 Oct 2026 10:00:00 +0200",
+          "first_seen": "2026-10-31",
+          "hash": "a377b3ed23a3a0cc",
+          "last_change": "2026-10-31",
+          "relevance": "low",
+          "source_id": "aepd",
+          "source_label": "AEPD (Spagna)",
+          "status": "new",
+          "summary": "L'AEPD ha aperto le iscrizioni per la giornata su cibersicurezza e protezione dei dati nell'ambito delle XX Giornate STIC (24 novembre). L'evento affronterà temi rilevanti per la compliance GDPR, tra cui il ruolo del DPO in caso di ciberattacco, le sanzioni per data breach, le misure di sicurezza, il trattamento di dati biometrici e gli spazi dati.",
+          "title": "Abierta la inscripción para la jornada de la AEPD sobre ciberseguridad y protección de datos en las XX Jornadas STIC",
+          "ts": 1792656000,
+          "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/abierta-la-inscripcion-para-jornada-de-aepd-sobre-ciberseguridad-xx-jorandas-stic"
+        },
+        "aepd:a14db30c-6a4f-41ad-b0f7-b909b0a69d4f": {
           "category": "Comunicazione / News",
           "date": "Tue, 28 Jul 2026 09:30:33 +0200",
           "first_seen": "2026-09-10",
@@ -436,7 +451,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-premiada-en-categoria-capacitacion-divulgacion-xix-trofeos"
         },
         "aepd:ada72be9-b41c-47c9-aacb-6780a26ead64": {
-          "ai_ok": true,
           "category": "Comunicazione / News",
           "date": "Tue, 14 Jul 2026 11:15:00 +0200",
           "first_seen": "2026-09-10",
@@ -452,7 +466,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-impulsa-un-modelo-comun-de-cumplimiento-en-el-sector"
         },
         "aepd:c7238882-96b2-4b4c-bb67-8d4371d4f5df": {
-          "ai_ok": true,
           "category": "Comunicazione / News",
           "date": "Thu, 18 Jun 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
@@ -468,7 +481,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-autoridad-belga-impulsan-buenas-practicas-sector-videojuego"
         },
         "aepd:ca7a7c06-72d3-4548-a6b8-743bc5ceb9cc": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Mon, 27 Jul 2026 08:40:53 +0200",
           "first_seen": "2026-09-10",
@@ -484,7 +496,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-convoca-premios-proteccion-de-datos-2026"
         },
         "aepd:d1febe9c-9774-40b7-a98a-542494654c8c": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Fri, 12 Jun 2026 12:38:06 +0200",
           "first_seen": "2026-09-10",
@@ -500,7 +511,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-premio-a-la-innovacion-tecnologica-en-el-sector-publico"
         },
         "aepd:d8921d40-bec8-4fe7-b23c-32891057c040": {
-          "ai_ok": true,
           "category": "Comunicazione / News",
           "date": "Wed, 09 Sep 2026 14:39:01 +0200",
           "first_seen": "2026-09-10",
@@ -532,7 +542,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/sigue-en-directo-la-entrega-de-los-premios-proteccion-de-datos"
         },
         "aepd:e740b21d-44f1-4c58-baa6-b9e7e6809a5b": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Thu, 09 Jul 2026 12:00:00 +0200",
           "first_seen": "2026-09-10",
@@ -548,7 +557,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/comite-europeo-proteccion-datos-aprueba-directrices-tratamiento-mediante-blockchain"
         },
         "aepd:f7ac87b2-9747-49c0-8339-e93773096ac1": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Mon, 19 Oct 2026 12:00:00 +0200",
           "first_seen": "2026-10-20",
@@ -562,6 +570,22 @@
           "title": "La Agencia y la autoridad de Luxemburgo firman un memorando para reforzar su cooperación",
           "ts": 1792404000,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-y-la-autoridad-de-luxemburgo-firman-un-memorando-cooperaci%C3%B3n"
+        },
+        "aepd:fe951a7d-508e-4bcc-a20d-fd4f6f8bc404": {
+          "ai_ok": false,
+          "category": "Altro",
+          "date": "Tue, 27 Oct 2026 10:00:00 +0100",
+          "first_seen": "2026-10-31",
+          "hash": "548ebc19b194d67b",
+          "last_change": "2026-10-31",
+          "relevance": "medium",
+          "source_id": "aepd",
+          "source_label": "AEPD (Spagna)",
+          "status": "new",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA sin perder el control sobre los datos personales",
+          "title": "La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA sin perder el control sobre los datos personales",
+          "ts": 1793091600,
+          "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-un-decalogo-para-delegar-tareas-en-asistentes"
         }
       }
     },
@@ -1416,7 +1440,6 @@
           "url": "https://www.gpdp.it/garante/doc.jsp?ID=10310445"
         },
         "garante_newsletter:https://www.gpdp.it/garante/doc.jsp?ID=10313206": {
-          "ai_ok": true,
           "category": "Newsletter",
           "date": "Thu, 29 Oct 2026 01:00:00 GMT",
           "first_seen": "2026-10-30",
@@ -1425,7 +1448,7 @@
           "relevance": "high",
           "source_id": "garante_newsletter",
           "source_label": "Garante Privacy — Newsletter (Italia)",
-          "status": "new",
+          "status": "seen",
           "summary": "La Newsletter n. 555 del Garante affronta la privacy dei minori (14 anni) nel Fascicolo Sanitario, sanzioni al Ministero della Giustizia e al Consiglio del Notariato per il concorso notai, e l'uso dell'IA nella PA. Le indicazioni sono rilevanti per la gestione dei dati sanitari dei minori, la compliance nei concorsi e le garanzie sui trattamenti effettuati mediante sistemi di IA.",
           "title": "NEWSLETTER del 29 ottobre 2026",
           "ts": 1793235600,
