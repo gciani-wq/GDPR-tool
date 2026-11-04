@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-11-03T13:57:50Z",
+  "generated_utc": "2026-11-04T14:12:15Z",
   "stats": {
-    "total_items": 94,
-    "changes_7d": 6,
-    "changes_30d": 33,
+    "total_items": 95,
+    "changes_7d": 8,
+    "changes_30d": 34,
     "sources_count": 4,
     "by_source": {
-      "AEPD (Spagna)": 37,
+      "AEPD (Spagna)": 38,
       "Garante Privacy — Comunicati stampa (Italia)": 18,
       "Garante Privacy — Newsletter (Italia)": 15,
       "EDPB (UE)": 24
     },
     "by_relevance": {
-      "high": 12,
-      "medium": 60,
-      "low": 22
+      "high": 11,
+      "medium": 63,
+      "low": 21
     }
   },
   "timeline": [
@@ -292,9 +292,59 @@
       "date": "2026-11-03",
       "new": 0,
       "changed": 0
+    },
+    {
+      "date": "2026-11-04",
+      "new": 1,
+      "changed": 2
     }
   ],
   "items": [
+    {
+      "id": "aepd:391bd365-9c81-4ffa-b8b9-fcfa4c54788d",
+      "source_id": "aepd",
+      "source_label": "AEPD (Spagna)",
+      "title": "¿Cómo decide un algoritmo? Te invitamos a conectarte en directo al segundo episodio de Las claves",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/como-decide-un-algoritmo-te-invitamos-al-segundo-episodio-de-las-claves",
+      "date": "Wed, 04 Nov 2026 12:30:35 +0100",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] ¿Cómo decide un algoritmo? Te invitamos a conectarte en directo al segundo episodio de Las claves",
+      "first_seen": "2026-11-04",
+      "last_change": "2026-11-04",
+      "ts": 1793791835
+    },
+    {
+      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10309361",
+      "source_id": "garante_comunicati",
+      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
+      "title": "Telemarketing, nei primi 7mesi del 2026 più di 37 mila segnalazioni",
+      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10309361",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Telemarketing, nei primi 7mesi del 2026 più di 37 mila segnalazioni",
+      "first_seen": "2026-10-21",
+      "last_change": "2026-11-04",
+      "ts": 1792454400
+    },
+    {
+      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10308277",
+      "source_id": "garante_comunicati",
+      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
+      "title": "Caso Garlasco, sanzione a Cairo Editore per la crudezza delle immagini pubblicate",
+      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10308277",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "status": "changed",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Caso Garlasco, sanzione a Cairo Editore per la crudezza delle immagini pubblicate",
+      "first_seen": "2026-10-16",
+      "last_change": "2026-11-04",
+      "ts": 1792108800
+    },
     {
       "id": "aepd:fe951a7d-508e-4bcc-a20d-fd4f6f8bc404",
       "source_id": "aepd",
@@ -302,7 +352,7 @@
       "title": "La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA sin perder el control sobre los datos personales",
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-un-decalogo-para-delegar-tareas-en-asistentes",
       "date": "Tue, 27 Oct 2026 10:00:00 +0100",
-      "status": "new",
+      "status": "seen",
       "category": "Altro",
       "relevance": "medium",
       "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA sin perder el control sobre los datos personales",
@@ -317,7 +367,7 @@
       "title": "Abierta la inscripción para la jornada de la AEPD sobre ciberseguridad y protección de datos en las XX Jornadas STIC",
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/abierta-la-inscripcion-para-jornada-de-aepd-sobre-ciberseguridad-xx-jorandas-stic",
       "date": "Thu, 22 Oct 2026 10:00:00 +0200",
-      "status": "new",
+      "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
       "summary": "L'AEPD ha aperto le iscrizioni per la giornata su cibersicurezza e protezione dei dati nell'ambito delle XX Giornate STIC (24 novembre). L'evento affronterà temi rilevanti per la compliance GDPR, tra cui il ruolo del DPO in caso di ciberattacco, le sanzioni per data breach, le misure di sicurezza, il trattamento di dati biometrici e gli spazi dati.",
@@ -371,21 +421,6 @@
       "ts": 1793149200
     },
     {
-      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10308277",
-      "source_id": "garante_comunicati",
-      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
-      "title": "Caso Garlasco, il Garante Privacy sanziona Cairo Editore per la crudezza delle immagini pubblicate",
-      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10308277",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "status": "seen",
-      "category": "Provvedimento sanzionatorio",
-      "relevance": "medium",
-      "summary": "Il Garante Privacy ha sanzionato Cairo Editore per 9.380 euro a seguito della pubblicazione, sulla testata 'Giallo' e su YouTube, di immagini crude sul caso Garlasco, accogliendo il reclamo della famiglia Poggi. Il provvedimento rileva per la compliance editoriale in materia di essenzialità dell'informazione e tutela della dignità personale nell'attività giornalistica.",
-      "first_seen": "2026-10-16",
-      "last_change": "2026-10-28",
-      "ts": 1792108800
-    },
-    {
       "id": "aepd:76e824ed-9726-4883-924b-631739949f91",
       "source_id": "aepd",
       "source_label": "AEPD (Spagna)",
@@ -429,21 +464,6 @@
       "first_seen": "2026-10-24",
       "last_change": "2026-10-24",
       "ts": 1792713600
-    },
-    {
-      "id": "garante_comunicati:https://www.gpdp.it/garante/doc.jsp?ID=10309361",
-      "source_id": "garante_comunicati",
-      "source_label": "Garante Privacy — Comunicati stampa (Italia)",
-      "title": "Telemarketing, nei primi 7mesi del 2026 più di 37 mila segnalazioni di chiamate indesiderate",
-      "url": "https://www.gpdp.it/garante/doc.jsp?ID=10309361",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "medium",
-      "summary": "Il Garante ha reso noti i dati sulle segnalazioni per telemarketing indesiderato nei primi 7 mesi del 2026, superando quota 37.000 (oltre 170 al giorno). Il Presidente Stanzione ha richiamato l'esigenza di una maggiore tutela per i consumatori. La notizia rileva per la compliance evidenziando il costante controllo dell'Autorità sulla liceità dei trattamenti e sulla tracciabilità dei consensi.",
-      "first_seen": "2026-10-21",
-      "last_change": "2026-10-22",
-      "ts": 1792454400
     },
     {
       "id": "aepd:5411ddc4-fbd5-4189-8f73-3ec782020b14",
@@ -498,9 +518,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/abierta-la-convocatoria-de-articulos-para-tercer-numero-revsita-pit",
       "date": "Thu, 15 Oct 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha aperto la call for papers per il terzo numero della Revista PIT. L'edizione sarà dedicata all'interazione tra il RGPD e altri quadri normativi europei e nazionali. Sebbene non abbia valore vincolante, l'iniziativa rileva per la compliance poiché anticipa orientamenti dottrinali sull'applicazione coordinata della protezione dati.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Abierta la convocatoria de artículos para el tercer número de la Revista PIT, que abordará la interacción del RGPD con otras normas",
       "first_seen": "2026-10-15",
       "last_change": "2026-10-15",
       "ts": 1792051200
@@ -710,7 +730,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-10-07",
       "last_change": "2026-10-07",
       "ts": 1791273600
@@ -813,9 +833,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums",
       "date": "Wed, 23 Sep 2026 17:59:57 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha pubblicato una nota per richiamare le garanzie da adottare nell'uso dell'intelligenza artificiale per l'analisi dei CV. L'intervento è rilevante per la compliance GDPR nei processi HR, richiamando l'attenzione su trasparenza, correttezza del trattamento, prevenzione di bias, conduzione della DPIA e gestione dei rischi legati alle decisioni interamente automatizzate (Art. 22 GDPR).",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
       "first_seen": "2026-09-26",
       "last_change": "2026-09-26",
       "ts": 1790179197
@@ -1083,9 +1103,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion",
       "date": "Thu, 23 Jul 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha riaperto le iscrizioni alla Rete pubblica dei gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa rileva per gli enti e i ricercatori interessati a confrontarsi con l'Autorità e a monitorare l'impatto di compliance dell'innovazione tecnologica.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -1100,7 +1120,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784618385
@@ -1370,7 +1390,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: Server disconnected without sending a response.] La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782288000
@@ -1430,7 +1450,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana actualiza el marco común de privacidad con especial atención a los neurodatos, la IA y las decisiones automatizadas",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1781508600
@@ -1488,9 +1508,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-galardonada-con-premio-auditoria-sistemas-premios-isaca-valencia",
       "date": "Tue, 09 Jun 2026 10:55:23 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.goog",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) è stata insignita del 'Premio de Auditoría de Sistemas de Información' nell'ambito dei Premi ISACA Valencia. Trattandosi del conferimento di un riconoscimento istituzionale all'Autorità di controllo, l'evento ha natura meramente informativa e non comporta alcun impatto operativo o variazione negli adempimenti di compliance GDPR per le organizz…",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1780995323
@@ -1706,5 +1726,10 @@
       "ts": 1765933200
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source_label": "EDPB (UE)",
+      "error": "503 Server Error: Backend fetch failed for url: https://www.edpb.europa.eu/feed/news_en"
+    }
+  ]
 }
