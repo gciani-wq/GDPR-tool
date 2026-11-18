@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-17T15:49:19Z",
+  "last_run_utc": "2026-11-18T15:28:10Z",
   "sources": {
     "aepd": {
       "items": {
@@ -52,8 +52,8 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums"
         },
         "aepd:0c02844d-e7ff-4b47-b513-171d11e847a3": {
-          "ai_ok": true,
-          "category": "Linee guida",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Mon, 22 Jun 2026 10:03:30 +0200",
           "first_seen": "2026-09-10",
           "hash": "8155d21676dee971",
@@ -62,7 +62,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "La Red Iberoamericana de Protección de Datos (RIPD) ha approvato un documento di riferimento sulle garanzie rafforzate per il trattamento dei neurodati in ambito non sanitario. La misura evidenzia la necessità di adeguate valutazioni d'impatto (DPIA) e garanzie elevate per la tutela della riservatezza cerebrale nelle tecnologie emergenti al di fuori del contesto medico.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "title": "La Red Iberoamericana aprueba un documento de referencia sobre las garantías reforzadas que exige el tratamiento de neurodatos en el ámbito no sanitario",
           "ts": 1782115410,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/ripd-aprueba-documento-referencia-sobre-garantias-tratamiento-neurodatos"
@@ -84,17 +84,17 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-cnmc-refuerzan-su-colaboracion-para-proteger-derechos-personas"
         },
         "aepd:181cb7fe-64d1-48d0-a9f0-151b75452dfa": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 23 Jul 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "c00af3f1f8266212",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha annunciato la riapertura delle iscrizioni alla Rete pubblica di gruppi e progetti di ricerca sulla privacy e sulle tecnologie emergenti. L'iniziativa mira a promuovere lo studio e la convergenza tra innovazione tecnologica e protezione dei dati, offrendo spunti di interesse per attività di analisi dei rischi e implementazione della privacy by design nelle tecnologie emergenti.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "title": "La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1784793600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion"
@@ -158,7 +158,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
           "title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
           "ts": 1791273600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia"
@@ -174,7 +174,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] ¿Cómo decide un algoritmo? Te invitamos a conectarte en directo al segundo episodio de Las claves",
           "title": "¿Cómo decide un algoritmo? Te invitamos a conectarte en directo al segundo episodio de Las claves",
           "ts": 1793791835,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/como-decide-un-algoritmo-te-invitamos-al-segundo-episodio-de-las-claves"
@@ -270,7 +270,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
           "title": "La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
           "ts": 1792483200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de"
@@ -420,7 +420,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/lorenzo-cotino-la-gobernanza-de-la-ia-exige-implicacion-todas-institucionesde"
         },
         "aepd:9ef2e1f9-1fcd-4900-9763-e01f81c08b20": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Thu, 08 Oct 2026 10:36:45 +0200",
           "first_seen": "2026-10-10",
@@ -436,7 +435,6 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-segundo-numero-revista-cientifica-privacidad-innovacion-tecnologia"
         },
         "aepd:a031fa81-6957-4860-a0cc-e24db11ffa38": {
-          "ai_ok": false,
           "category": "Altro",
           "date": "Thu, 22 Oct 2026 10:00:00 +0200",
           "first_seen": "2026-10-31",
