@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-21T14:29:04Z",
+  "last_run_utc": "2026-11-22T14:25:09Z",
   "sources": {
     "aepd": {
       "items": {
@@ -36,17 +36,17 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-abre-convocatoria-articulos-segundo-numero-revista-pit"
         },
         "aepd:09d6d109-af48-4abd-9189-172fe39e8721": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 23 Sep 2026 17:59:57 +0200",
           "first_seen": "2026-09-26",
           "hash": "43f401f244e81dbe",
           "last_change": "2026-09-26",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha ricordato le garanzie del GDPR da osservare per l'uso dell'IA nell'analisi dei CV dei candidati. La nota è rilevante per la compliance in quanto richiama l'obbligo di tutelare i diritti degli interessati contro decisioni automatizzate e profilazioni non conformi, imponendo la verifica dei requisiti di trasparenza, liceità e riduzione dei rischi di discriminazione nei processi HR.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
           "title": "La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
           "ts": 1790179197,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums"
@@ -84,17 +84,17 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-cnmc-refuerzan-su-colaboracion-para-proteger-derechos-personas"
         },
         "aepd:181cb7fe-64d1-48d0-a9f0-151b75452dfa": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 23 Jul 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "c00af3f1f8266212",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca su privacy e tecnologie emergenti. L'iniziativa favorisce il confronto tra regolatore e mondo scientifico, offrendo spunti utili ai consulenti di compliance per l'analisi dei rischi e la valutazione d'impatto (DPIA) legata all'adozione di tecnologie innovative.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "title": "La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
           "ts": 1784793600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion"
@@ -110,23 +110,23 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha annunciato l'apertura della call for papers per il terzo numero della rivista PIT, incentrato sull'interazione del RGPD con altre normative. L'iniziativa non introduce nuovi obblighi diretti per i titolari del trattamento, ma costituisce una fonte d'interesse dottrinale per comprendere l'evoluzione e la sovrapposizione tra il GDPR e la regolamentazione di settore.",
+          "summary": "L'AEPD ha annunciato l'apertura della call for papers per il terzo numero della rivista scientifica PIT (Privacidad e Innovación Tecnológica), incentrato sull'interazione tra il RGPD e altre normative. La pubblicazione rileva a fini conoscitivi per monitorare l'evoluzione dottrinale sull'intersezione tra la disciplina privacy e i nuovi quadri regolatori di settore.",
           "title": "Abierta la convocatoria de artículos para el tercer número de la Revista PIT, que abordará la interacción del RGPD con otras normas",
           "ts": 1792051200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/abierta-la-convocatoria-de-articulos-para-tercer-numero-revsita-pit"
         },
         "aepd:2722182b-0bd8-402f-9e60-cfcf63284ba0": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 24 Jun 2026 10:00:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "eab3bf120e598dad",
           "last_change": "2026-09-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità per la protezione dei dati spagnola (AEPD) ha annunciato tramite nota stampa l'avvio di una nuova fase istituzionale al servizio della cittadinanza. Trattandosi di una comunicazione generale priva di ulteriori dettagli tecnici o normativi nel testo fornito, l'impatto operativo diretto sui processi aziendali e sulle attività di audit GDPR risulta al momento contenuto.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "title": "La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
           "ts": 1782288000,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-espanola-de-proteccion-de-datos-inicia-nueva-etapa"
@@ -158,7 +158,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha fornito indicazioni sulle garanzie necessarie per integrare l'intelligenza artificiale nei sistemi di videosorveglianza. Il tema è altamente rilevante per la compliance GDPR, poiché l'analisi intelligente delle immagini incrementa i rischi per i diritti degli interessati, richiedendo adeguate misure tecniche, organizzative e una rigorosa DP…",
+          "summary": "L'Autorità spagnola (AEPD) ha fornito indicazioni sulle garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. Il provvedimento rileva per la compliance GDPR poiché l'uso dell'IA nella videosorveglianza comporta rischi elevati per i diritti degli interessati, richiedendo rigorose valutazioni d'impatto (DPIA), trasparenza e adeguate misure di sicurez…",
           "title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
           "ts": 1791273600,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia"
@@ -174,7 +174,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha pubblicato un invito a seguire in diretta il secondo episodio della serie 'Las claves', intitolato '¿Cómo decide un algoritmo?'. L'iniziativa ha carattere divulgativo e affronta il tema dei processi decisionali algoritmici. Trattandosi di un evento informativo, la comunicazione ha una rilevanza indiretta per le attività operative di complia…",
+          "summary": "L'AEPD ha annunciato la trasmissione in diretta del secondo episodio del format informativo 'Las claves', focalizzato sul funzionamento e sui criteri decisionali degli algoritmi. L'iniziativa rileva per la compliance in quanto approfondisce i temi della trasparenza e dei trattamenti automatizzati (art. 22 GDPR), pur avendo natura meramente divulgativa.",
           "title": "¿Cómo decide un algoritmo? Te invitamos a conectarte en directo al segundo episodio de Las claves",
           "ts": 1793791835,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/como-decide-un-algoritmo-te-invitamos-al-segundo-episodio-de-las-claves"
@@ -190,7 +190,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola (AEPD) ha pubblicato un'analisi sull'applicazione dei principi di qualità, esattezza e minimizzazione dei dati personali nei trattamenti effettuati mediante sistemi di Intelligenza Artificiale. L'orientamento è rilevante per la compliance in quanto fornisce indicazioni per conformare gli algoritmi e i modelli di IA ai requisiti dell'art. 5 del GDPR.",
+          "summary": "L'AEPD ha pubblicato un'analisi sull'applicazione dei principi di qualità, esattezza e minimizzazione dei dati personali nei trattamenti svolti mediante sistemi di Intelligenza Artificiale. L'iniziativa rileva per la compliance in quanto fornisce indicazioni per garantire la conformità delle soluzioni di IA ai principi fondamentali del GDPR (art. 5).",
           "title": "La AEPD analiza la calidad, exactitud y minimización de datos personales en tratamientos realizados con sistemas de IA",
           "ts": 1784618385,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia"
@@ -222,7 +222,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD e l'AESIA (Agenzia spagnola per la supervisione dell'IA) hanno avviato un percorso di coordinamento istituzionale per affrontare i temi di intersezione tra intelligenza artificiale e protezione dei dati personali. L'iniziativa rileva per la compliance in quanto definisce le sinergie operative tra le autorità per l'applicazione del GDPR nella governance dei sistemi di IA.",
+          "summary": "L'AEPD e l'AESIA hanno avviato un coordinamento istituzionale sulla convergenza tra protezione dei dati personali e intelligenza artificiale. La collaborazione mira ad armonizzare le rispettive competenze di vigilanza, garantendo coerenza nell'applicazione del GDPR rispetto allo sviluppo dei sistemi di IA. Rileva per la conformità dei trattamenti automatizzati e l'analisi dei relativi rischi.",
           "title": "La AEPD y la AESIA abordan la coordinación institucional en materia de protección de datos e inteligencia artificial",
           "ts": 1784537158,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-aesia-abordan-coordinacion-institucional"
@@ -238,7 +238,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato il lancio di 'Las claves de…', un nuovo format di dialogo con specialisti focalizzato sulle tematiche di privacy e tecnologie emergenti. L'iniziativa rappresenta uno strumento informativo e di approfondimento sulle sfide d'impatto regolatorio e di compliance legate all'evoluzione tecnologica.",
+          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato il lancio di 'Las claves de...', un nuovo format di confronto con specialisti incentrato su privacy e tecnologie emergenti. L'iniziativa rileva per la compliance quale strumento per monitorare gli orientamenti dell'Autorità e l'evoluzione dei rischi legati alle nuove tecnologie nel quadro del GDPR.",
           "title": "La AEPD estrena ‘Las claves de…’, un nuevo formato de diálogo con especialistas sobre privacidad y tecnologías emergentes",
           "ts": 1788854400,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-estrena-las-claves-de-un-nuevo-formato-de-dialogo-con-especialistas"
@@ -254,7 +254,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha archiviato l'istruttoria nei confronti di TikTok a seguito della denuncia presentata dal Ministero Fiscale dinanzi all'autorità giudiziaria. Dal punto di vista della compliance, il provvedimento evidenzia l'interazione tra procedimenti amministrativi del Garante e azioni penali/giudiziarie, con conseguente arresto della fase sanzionatoria amministrativa in pendenza di giudizio.",
+          "summary": "L'AEPD ha archiviato le azioni istruttorie nei confronti di TikTok a seguito della denuncia presentata dal Ministerio Fiscal dinanzi all'autorità giudiziaria. Il provvedimento rileva per la compliance poiché evidenzia la sospensione o chiusura dei procedimenti amministrativi di controllo in presenza di un'azione penale o giudiziaria sui medesimi fatti.",
           "title": "La AEPD archiva sus actuaciones sobre TikTok tras la denuncia del Ministerio Fiscal ante el juzgado",
           "ts": 1794825044,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-archiva-sus-actuaciones-sobre-tiktok-tras--ministerio-fiscal"
@@ -270,7 +270,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità Garante spagnola (AEPD) ha reso noto di aver ricevuto oltre 3.000 notifiche di violazione dei dati personali nel corso del primo semestre dell'anno. L'elevato numero di segnalazioni evidenzia il consolidamento delle prassi di notifica dei data breach ex art. 33 GDPR da parte dei titolari del trattamento e richiede un continuo rafforzamento dei presidi di sicurezza informatica.",
+          "summary": "L'AEPD ha pubblicato una nota informativa segnalando di aver ricevuto oltre 3.000 notifiche di data breach nel primo semestre dell'anno. Il dato evidenzia l'elevata frequenza degli incidenti di sicurezza e richiama l'attenzione sulla corretta implementazione delle procedure aziendali di gestione e tempestiva notifica delle violazioni dei dati personali ai sensi degli artt. 33 e 34 del GDPR.",
           "title": "La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
           "ts": 1792483200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de"
@@ -302,7 +302,7 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato la sua partecipazione alle XX Giornate STIC con una sessione interamente dedicata alla protezione dei dati. Trattandosi di un'iniziativa istituzionale e promozionale, la notizia non introduce nuovi obblighi regolatori, ma risulta utile per monitorare l'attenzione dell'Autorità sulle sinergie tra cibersicurezza e privacy.",
+          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato la propria partecipazione alle XX Giornate STIC, organizzando una giornata dedicata alla tutela dei dati personali. Trattandosi di un evento istituzionale e divulgativo sulla sicurezza delle informazioni, l'iniziativa ha scopo informativo e non comporta impatti normativi o sanzionatori diretti sulle attività di compliance.",
           "title": "La AEPD participará en las XX Jornadas STIC con una jornada dedicada a la protección de datos",
           "ts": 1788334200,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-participara-xx-jornadas-stic"
@@ -404,24 +404,24 @@
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/red-iberoamericana-actualiza-marco-comun-privacidad"
         },
         "aepd:924a55eb-a3ec-40fe-a875-8264de291311": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 11 Nov 2026 13:44:12 +0100",
           "first_seen": "2026-11-11",
           "hash": "d62c4fdd8a7a0d90",
           "last_change": "2026-11-11",
-          "relevance": "high",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'AEPD ha espresso la propria posizione ufficiale in merito alla diffusione di contenuti di abuso sessuale infantile sulla piattaforma TikTok. La comunicazione evidenzia la centralità della tutela dei minori nello spazio digitale, sollevando rilevanti profili di compliance relativi alle misure di sicurezza, alla moderazione dei contenuti e alla protezione dei dati dei minori ai sensi del GDPR.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
           "title": "La Agencia Española de Protección de Datos ante la difusión en TikTok de contenidos de abuso sexual infantil",
           "ts": 1794401052,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-espanola-de-proteccion-de-datos-ante-la-difusion-tiktok-abuso-sexual-infantil"
         },
         "aepd:97cd86ce-cc39-40ba-b7e8-52776029ce56": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Wed, 15 Jul 2026 11:30:00 +0200",
           "first_seen": "2026-09-10",
           "hash": "d3c23f0357796eb6",
@@ -430,23 +430,23 @@
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "Nota dell'AEPD concernente l'intervento di Lorenzo Cotino sulla governance dell'intelligenza artificiale. Viene evidenziata la necessità di un'azione coordinata tra le istituzioni e di un impegno specifico da parte delle aziende. Il tema assume rilevanza per l'integrazione dei modelli di compliance e responsabilizzazione (accountability) nei trattamenti svolti tramite sistemi IA.",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
           "title": "Lorenzo Cotino: “La gobernanza de la IA exige la implicación de todas las instituciones y un compromiso especial de las empresas”",
           "ts": 1784107800,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/lorenzo-cotino-la-gobernanza-de-la-ia-exige-implicacion-todas-institucionesde"
         },
         "aepd:9ef2e1f9-1fcd-4900-9763-e01f81c08b20": {
-          "ai_ok": true,
-          "category": "Comunicazione / News",
+          "ai_ok": false,
+          "category": "Altro",
           "date": "Thu, 08 Oct 2026 10:36:45 +0200",
           "first_seen": "2026-10-10",
           "hash": "6f99f29954397da5",
           "last_change": "2026-10-10",
-          "relevance": "low",
+          "relevance": "medium",
           "source_id": "aepd",
           "source_label": "AEPD (Spagna)",
           "status": "seen",
-          "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha pubblicato il secondo numero della rivista scientifica 'Privacidad, Innovación y Tecnología'. La pubblicazione raccoglie analisi e studi sull'impatto delle tecnologie emergenti sulla protezione dei dati. L'evento ha natura prevalentemente informativa e dottrinale, offrendo spunti teorici e di indirizzo culturale per gli esperti di complianc…",
+          "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
           "title": "La AEPD publica el segundo número de la revista científica ‘Privacidad, Innovación y Tecnología’",
           "ts": 1791448605,
           "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-segundo-numero-revista-cientifica-privacidad-innovacion-tecnologia"
