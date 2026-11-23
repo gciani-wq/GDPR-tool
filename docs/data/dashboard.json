@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-11-22T14:25:09Z",
+  "generated_utc": "2026-11-23T17:51:29Z",
   "stats": {
-    "total_items": 105,
-    "changes_7d": 4,
-    "changes_30d": 21,
+    "total_items": 115,
+    "changes_7d": 13,
+    "changes_30d": 31,
     "sources_count": 4,
     "by_source": {
       "AEPD (Spagna)": 43,
       "Garante Privacy — Comunicati stampa (Italia)": 22,
       "Garante Privacy — Newsletter (Italia)": 16,
-      "EDPB (UE)": 24
+      "EDPB (UE)": 34
     },
     "by_relevance": {
-      "high": 17,
-      "medium": 61,
-      "low": 27
+      "high": 19,
+      "medium": 71,
+      "low": 25
     }
   },
   "timeline": [
@@ -387,9 +387,164 @@
       "date": "2026-11-22",
       "new": 0,
       "changed": 0
+    },
+    {
+      "date": "2026-11-23",
+      "new": 10,
+      "changed": 0
     }
   ],
   "items": [
+    {
+      "id": "edpb:797674bc-f0cc-4ed1-8bd1-0c16baa42bc8",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795089600
+    },
+    {
+      "id": "edpb:dd0bc6ba-200c-4428-b218-86fb61a6eaba",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Comunicazione / News",
+      "relevance": "medium",
+      "summary": "L'EDPB ha incontrato le Autorità di protezione dati dei Paesi con decisione di adeguatezza UE per definire le priorità del 2027. I temi chiave includono i dispositivi indossabili (smart glasses), i sistemi di verifica dell'età privacy-preserving e la cooperazione nell'enforcement. La notizia rileva per anticipare i futuri orientamenti di compliance su trasferimenti extra-UE e nuove tecnologie.",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795089600
+    },
+    {
+      "id": "edpb:84c1af1e-ead3-47e6-bf74-f5a004a68b8d",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+      "url": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795089600
+    },
+    {
+      "id": "edpb:4b591fcb-16bc-4ce9-be0e-317acc78e210",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+      "date": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795003200
+    },
+    {
+      "id": "edpb:5e29a28b-b517-43be-b617-0c78c64ab0c5",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+      "date": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "high",
+      "summary": "Il Garante per la protezione dei dati personali ha sanzionato Meta per 805 milioni di euro a causa dell'accesso illecito alle gallerie fotografiche degli utenti Facebook. L'autorità ha rilevato la mancanza di un consenso specifico e informato per la funzione di suggerimento contenuti, attivata di default dopo un permesso di sistema generico. Rileva per l'obbligo di consenso granulare nell'accesso…",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795003200
+    },
+    {
+      "id": "edpb:cbaa893d-5594-4fdc-9ba0-84bc73d39a4c",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Italian DPA fines radiology centre and IT provider a combined  EUR 28 000 for exposing patient health data",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+      "date": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "high",
+      "summary": "Il Garante italiano ha sanzionato per 28.000 € un centro radiologico (titolare) e il relativo fornitore IT (responsabile) a causa dell'accessibilità pubblica di referti medici via URL senza autenticazione e della mancata cancellazione dei dati obsoleti. La decisione sottolinea la rilevanza del controllo sui responsabili e del rispetto dei principi di privacy by design e sicurezza (artt. 5, 25, 32…",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795003200
+    },
+    {
+      "id": "edpb:79981e4e-8718-49d5-bb6a-ffc509e1c317",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+      "date": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Provvedimento sanzionatorio",
+      "relevance": "medium",
+      "summary": "Il Garante italiano ha sanzionato Business School S.r.l. per 8.000 € per telemarketing illecito (chiamata a numero iscritto al Registro Pubblico delle Opposizioni) e mancata evasione delle richieste dell'interessato (artt. 5, 12, 15, 17, 21, 31 GDPR). L'errore umano non esclude la responsabilità del titolare, confermando la centralità delle procedure di gestione DSAR e del rispetto dell'RPO.",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1795003200
+    },
+    {
+      "id": "edpb:b122b314-4a5a-4d48-aa45-085b84f43efa",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+      "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1794916800
+    },
+    {
+      "id": "edpb:582e8fe0-77da-4aff-9412-ae4f9d150a97",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
+      "url": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Comunicazione / News",
+      "relevance": "medium",
+      "summary": "L'EDPB ha adottato una dichiarazione a supporto dell'uso dei modelli di clausole contrattuali del Consiglio d'Europa e della rete RIPD per i trasferimenti successivi (onward transfers) di dati basati su SCC UE. Tale riconoscimento, recepito nelle FAQ della Commissione UE, amplia le opzioni di compliance disponibili per le organizzazioni garantendo un livello adeguato di protezione.",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1794571200
+    },
+    {
+      "id": "edpb:1165701c-a7ae-4619-8cb4-f88f5bad6af6",
+      "source_id": "edpb",
+      "source_label": "EDPB (UE)",
+      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+      "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "status": "new",
+      "category": "Comunicazione / News",
+      "relevance": "high",
+      "summary": "L'EDPB ha adottato la dichiarazione sulla prima revisione dell'adeguatezza della Corea del Sud (evidenziando tutele PIPA su IA e decisioni automatizzate), la versione finale delle raccomandazioni sulle BCR per responsabili (BCR-P) e ha selezionato il tema per la 6ª azione esecutiva coordinata (CEF). Tali elementi rilevano per i trasferimenti di dati extra-UE e per la gestione del rischio di compl…",
+      "first_seen": "2026-11-23",
+      "last_change": "2026-11-23",
+      "ts": 1794398400
+    },
     {
       "id": "aepd:7626740d-acad-4985-a7d3-757fa7301676",
       "source_id": "aepd",
@@ -428,9 +583,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-archiva-sus-actuaciones-sobre-tiktok-tras--ministerio-fiscal",
       "date": "Mon, 16 Nov 2026 11:30:44 +0100",
       "status": "seen",
-      "category": "Provvedimento / Decisione",
+      "category": "Altro",
       "relevance": "medium",
-      "summary": "L'AEPD ha archiviato le azioni istruttorie nei confronti di TikTok a seguito della denuncia presentata dal Ministerio Fiscal dinanzi all'autorità giudiziaria. Il provvedimento rileva per la compliance poiché evidenzia la sospensione o chiusura dei procedimenti amministrativi di controllo in presenza di un'azione penale o giudiziaria sui medesimi fatti.",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD archiva sus actuaciones sobre TikTok tras la denuncia del Ministerio Fiscal ante el juzgado",
       "first_seen": "2026-11-17",
       "last_change": "2026-11-17",
       "ts": 1794825044
@@ -548,9 +703,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/como-decide-un-algoritmo-te-invitamos-al-segundo-episodio-de-las-claves",
       "date": "Wed, 04 Nov 2026 12:30:35 +0100",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'AEPD ha annunciato la trasmissione in diretta del secondo episodio del format informativo 'Las claves', focalizzato sul funzionamento e sui criteri decisionali degli algoritmi. L'iniziativa rileva per la compliance in quanto approfondisce i temi della trasparenza e dei trattamenti automatizzati (art. 22 GDPR), pur avendo natura meramente divulgativa.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-11-04",
       "last_change": "2026-11-04",
       "ts": 1793791835
@@ -713,9 +868,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de",
       "date": "Tue, 20 Oct 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
+      "category": "Altro",
       "relevance": "medium",
-      "summary": "L'AEPD ha pubblicato una nota informativa segnalando di aver ricevuto oltre 3.000 notifiche di data breach nel primo semestre dell'anno. Il dato evidenzia l'elevata frequenza degli incidenti di sicurezza e richiama l'attenzione sulla corretta implementazione delle procedure aziendali di gestione e tempestiva notifica delle violazioni dei dati personali ai sensi degli artt. 33 e 34 del GDPR.",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-10-20",
       "last_change": "2026-10-20",
       "ts": 1792483200
@@ -760,7 +915,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "low",
-      "summary": "L'AEPD ha annunciato l'apertura della call for papers per il terzo numero della rivista scientifica PIT (Privacidad e Innovación Tecnológica), incentrato sull'interazione tra il RGPD e altre normative. La pubblicazione rileva a fini conoscitivi per monitorare l'evoluzione dottrinale sull'intersezione tra la disciplina privacy e i nuovi quadri regolatori di settore.",
+      "summary": "L'AEPD ha annunciato l'apertura della call for papers per il terzo numero della rivista PIT, focalizzato sull'interazione tra il GDPR e altri quadri normativi. L'iniziativa ha valore prevalentemente informativo e dottrinale per i professionisti di compliance, offrendo analisi sulle intersezioni regolatorie senza tuttavia introdurre nuovi obblighi giuridici vincolanti.",
       "first_seen": "2026-10-15",
       "last_change": "2026-10-15",
       "ts": 1792051200
@@ -968,9 +1123,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia",
       "date": "Tue, 06 Oct 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'Autorità spagnola (AEPD) ha fornito indicazioni sulle garanzie necessarie per l'integrazione dell'intelligenza artificiale nei sistemi di videosorveglianza. Il provvedimento rileva per la compliance GDPR poiché l'uso dell'IA nella videosorveglianza comporta rischi elevati per i diritti degli interessati, richiedendo rigorose valutazioni d'impatto (DPIA), trasparenza e adeguate misure di sicurez…",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
       "first_seen": "2026-10-07",
       "last_change": "2026-10-07",
       "ts": 1791273600
@@ -1073,9 +1228,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums",
       "date": "Wed, 23 Sep 2026 17:59:57 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
+      "category": "Comunicazione / News",
+      "relevance": "high",
+      "summary": "L'AEPD ha richiamato le garanzie necessarie ai sensi del GDPR per l'utilizzo di strumenti di intelligenza artificiale nell'analisi e nello screening dei curriculum vitae. L'indicazione rileva per la compliance aziendale in materia di trattamenti dati nel settore delle risorse umane, trasparenza e prevenzione di decisioni automatizzate prive di adeguate tutele.",
       "first_seen": "2026-09-26",
       "last_change": "2026-09-26",
       "ts": 1790179197
@@ -1178,9 +1333,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-estrena-las-claves-de-un-nuevo-formato-de-dialogo-con-especialistas",
       "date": "Tue, 08 Sep 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato il lancio di 'Las claves de...', un nuovo format di confronto con specialisti incentrato su privacy e tecnologie emergenti. L'iniziativa rileva per la compliance quale strumento per monitorare gli orientamenti dell'Autorità e l'evoluzione dei rischi legati alle nuove tecnologie nel quadro del GDPR.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788854400
@@ -1223,9 +1378,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-participara-xx-jornadas-stic",
       "date": "Wed, 02 Sep 2026 09:30:00 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "low",
-      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha annunciato la propria partecipazione alle XX Giornate STIC, organizzando una giornata dedicata alla tutela dei dati personali. Trattandosi di un evento istituzionale e divulgativo sulla sicurezza delle informazioni, l'iniziativa ha scopo informativo e non comporta impatti normativi o sanzionatori diretti sulle attività di compliance.",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1788334200
@@ -1343,9 +1498,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-reabre-inscripcion-red-publica-de-grupos-y-proyectos-de-investigacion",
       "date": "Thu, 23 Jul 2026 10:00:00 +0200",
       "status": "seen",
-      "category": "Altro",
-      "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia reabre la inscripción a la Red pública de grupos y proyectos de investigación sobre privacidad y tecnologías emergentes",
+      "category": "Comunicazione / News",
+      "relevance": "low",
+      "summary": "L'Autorità spagnola per la protezione dei dati (AEPD) ha riaperto le iscrizioni alla Rete pubblica di gruppi e progetti di ricerca dedicati a privacy e tecnologie emergenti. L'iniziativa mira a promuovere la collaborazione scientifica e lo studio dell'impatto delle nuove tecnologie sulla tutela dei dati personali, rappresentando un punto di riferimento per l'innovazione conforme al GDPR.",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784793600
@@ -1358,9 +1513,9 @@
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-analiza-calidad-exactitud-y-minimizacion-de-datos-personales-en-tratamientos-con-ia",
       "date": "Tue, 21 Jul 2026 09:19:45 +0200",
       "status": "seen",
-      "category": "Comunicazione / News",
-      "relevance": "high",
-      "summary": "L'AEPD ha pubblicato un'analisi sull'applicazione dei principi di qualità, esattezza e minimizzazione dei dati personali nei trattamenti svolti mediante sistemi di Intelligenza Artificiale. L'iniziativa rileva per la compliance in quanto fornisce indicazioni per garantire la conformità delle soluzioni di IA ai principi fondamentali del GDPR (art. 5).",
+      "category": "Altro",
+      "relevance": "medium",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784618385
@@ -1390,7 +1545,7 @@
       "status": "seen",
       "category": "Comunicazione / News",
       "relevance": "medium",
-      "summary": "L'AEPD e l'AESIA hanno avviato un coordinamento istituzionale sulla convergenza tra protezione dei dati personali e intelligenza artificiale. La collaborazione mira ad armonizzare le rispettive competenze di vigilanza, garantendo coerenza nell'applicazione del GDPR rispetto allo sviluppo dei sistemi di IA. Rileva per la conformità dei trattamenti automatizzati e l'analisi dei relativi rischi.",
+      "summary": "L'AEPD e l'AESIA hanno avviato un coordinamento istituzionale in materia di protezione dei dati personali e intelligenza artificiale. L'iniziativa è rilevante per la compliance poiché affronta le intersezioni tra la normativa GDPR e la regolamentazione sull'IA, delineando i futuri orientamenti per la governance algoritmica e la valutazione dei rischi nei trattamenti effettuati mediante sistemi di…",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1784537158
@@ -1630,7 +1785,7 @@
       "status": "seen",
       "category": "Altro",
       "relevance": "medium",
-      "summary": "[Riassunto AI non disponibile: errore Gemini: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}] La Agencia Española de Protección de Datos inicia una nueva etapa al servicio de la ciudadanía",
+      "summary": "[Riassunto AI non disponibile: errore Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapi",
       "first_seen": "2026-09-10",
       "last_change": "2026-09-10",
       "ts": 1782288000
@@ -1966,10 +2121,5 @@
       "ts": 1765933200
     }
   ],
-  "errors": [
-    {
-      "source_label": "EDPB (UE)",
-      "error": "503 Server Error: Service Unavailable for url: https://www.edpb.europa.eu/feed/news_en"
-    }
-  ]
+  "errors": []
 }
